@@ -1,0 +1,2161 @@
+{
+ "meta": {
+  "generated_at": "2026-09-07T08:26:02.369096Z",
+  "source": "Binance exchangeInfo + ticker/24hr",
+  "filter": "USDT spot TRADING, 剔除稳定币/杠杆代币/法币, 当前24h报价额>=100k USD",
+  "note": "PIT 滚动流动性闸门在引擎内按每日 trailing 30d 成交量判定合格；本列表仅为候选全集。",
+  "n": 430
+ },
+ "coins": [
+  {
+   "symbol": "BTCUSDT",
+   "base": "BTC",
+   "quoteVol24hUsd": 850483635.6471721
+  },
+  {
+   "symbol": "ETHUSDT",
+   "base": "ETH",
+   "quoteVol24hUsd": 593658845.462107
+  },
+  {
+   "symbol": "ZECUSDT",
+   "base": "ZEC",
+   "quoteVol24hUsd": 386555572.52367
+  },
+  {
+   "symbol": "SOLUSDT",
+   "base": "SOL",
+   "quoteVol24hUsd": 286931438.56398
+  },
+  {
+   "symbol": "XRPUSDT",
+   "base": "XRP",
+   "quoteVol24hUsd": 134017414.23158
+  },
+  {
+   "symbol": "BNBUSDT",
+   "base": "BNB",
+   "quoteVol24hUsd": 112459235.88294
+  },
+  {
+   "symbol": "NEARUSDT",
+   "base": "NEAR",
+   "quoteVol24hUsd": 86626616.4617
+  },
+  {
+   "symbol": "DOGEUSDT",
+   "base": "DOGE",
+   "quoteVol24hUsd": 78724666.735
+  },
+  {
+   "symbol": "TAOUSDT",
+   "base": "TAO",
+   "quoteVol24hUsd": 78028200.25652
+  },
+  {
+   "symbol": "ARBUSDT",
+   "base": "ARB",
+   "quoteVol24hUsd": 70597470.78788
+  },
+  {
+   "symbol": "LINKUSDT",
+   "base": "LINK",
+   "quoteVol24hUsd": 67194187.38318
+  },
+  {
+   "symbol": "UNIUSDT",
+   "base": "UNI",
+   "quoteVol24hUsd": 66235646.05232
+  },
+  {
+   "symbol": "SUIUSDT",
+   "base": "SUI",
+   "quoteVol24hUsd": 64185835.06288
+  },
+  {
+   "symbol": "SAHARAUSDT",
+   "base": "SAHARA",
+   "quoteVol24hUsd": 53878264.47973
+  },
+  {
+   "symbol": "MARSCOINUSDT",
+   "base": "MARSCOIN",
+   "quoteVol24hUsd": 49870318.06808
+  },
+  {
+   "symbol": "DASHUSDT",
+   "base": "DASH",
+   "quoteVol24hUsd": 49282167.33676
+  },
+  {
+   "symbol": "PROMUSDT",
+   "base": "PROM",
+   "quoteVol24hUsd": 41809669.67804
+  },
+  {
+   "symbol": "WLDUSDT",
+   "base": "WLD",
+   "quoteVol24hUsd": 39735137.99607
+  },
+  {
+   "symbol": "PUMPUSDT",
+   "base": "PUMP",
+   "quoteVol24hUsd": 39595616.128705
+  },
+  {
+   "symbol": "RAYUSDT",
+   "base": "RAY",
+   "quoteVol24hUsd": 35504426.61714
+  },
+  {
+   "symbol": "ADAUSDT",
+   "base": "ADA",
+   "quoteVol24hUsd": 33840152.60925
+  },
+  {
+   "symbol": "ENAUSDT",
+   "base": "ENA",
+   "quoteVol24hUsd": 33039637.626478
+  },
+  {
+   "symbol": "RLUSDUSDT",
+   "base": "RLUSD",
+   "quoteVol24hUsd": 27653823.4707
+  },
+  {
+   "symbol": "AVAXUSDT",
+   "base": "AVAX",
+   "quoteVol24hUsd": 22921489.59858
+  },
+  {
+   "symbol": "HEMIUSDT",
+   "base": "HEMI",
+   "quoteVol24hUsd": 22592213.806292
+  },
+  {
+   "symbol": "TRXUSDT",
+   "base": "TRX",
+   "quoteVol24hUsd": 21705381.06007
+  },
+  {
+   "symbol": "ICPUSDT",
+   "base": "ICP",
+   "quoteVol24hUsd": 20659426.93741
+  },
+  {
+   "symbol": "PEPEUSDT",
+   "base": "PEPE",
+   "quoteVol24hUsd": 20027840.88585082
+  },
+  {
+   "symbol": "TRUMPUSDT",
+   "base": "TRUMP",
+   "quoteVol24hUsd": 19859090.825336
+  },
+  {
+   "symbol": "LTCUSDT",
+   "base": "LTC",
+   "quoteVol24hUsd": 18870489.54552
+  },
+  {
+   "symbol": "ASTERUSDT",
+   "base": "ASTER",
+   "quoteVol24hUsd": 18855218.91765
+  },
+  {
+   "symbol": "XLMUSDT",
+   "base": "XLM",
+   "quoteVol24hUsd": 17218075.8615
+  },
+  {
+   "symbol": "ZAMAUSDT",
+   "base": "ZAMA",
+   "quoteVol24hUsd": 16125345.35798
+  },
+  {
+   "symbol": "ONDOUSDT",
+   "base": "ONDO",
+   "quoteVol24hUsd": 14938201.5311
+  },
+  {
+   "symbol": "FETUSDT",
+   "base": "FET",
+   "quoteVol24hUsd": 14906023.53211
+  },
+  {
+   "symbol": "UUSDT",
+   "base": "U",
+   "quoteVol24hUsd": 14547482.7281
+  },
+  {
+   "symbol": "TIAUSDT",
+   "base": "TIA",
+   "quoteVol24hUsd": 14534064.405112
+  },
+  {
+   "symbol": "AAVEUSDT",
+   "base": "AAVE",
+   "quoteVol24hUsd": 13362963.20214
+  },
+  {
+   "symbol": "DOTUSDT",
+   "base": "DOT",
+   "quoteVol24hUsd": 12845839.87495
+  },
+  {
+   "symbol": "ZKCUSDT",
+   "base": "ZKC",
+   "quoteVol24hUsd": 12820495.58326
+  },
+  {
+   "symbol": "ORCAUSDT",
+   "base": "ORCA",
+   "quoteVol24hUsd": 12426428.47968
+  },
+  {
+   "symbol": "COTIUSDT",
+   "base": "COTI",
+   "quoteVol24hUsd": 12403133.51568
+  },
+  {
+   "symbol": "BONKUSDT",
+   "base": "BONK",
+   "quoteVol24hUsd": 12152120.33132904
+  },
+  {
+   "symbol": "ZENUSDT",
+   "base": "ZEN",
+   "quoteVol24hUsd": 12042087.78172
+  },
+  {
+   "symbol": "PENGUUSDT",
+   "base": "PENGU",
+   "quoteVol24hUsd": 11627421.391717
+  },
+  {
+   "symbol": "CRCLBUSDT",
+   "base": "CRCLB",
+   "quoteVol24hUsd": 10966134.1868
+  },
+  {
+   "symbol": "XAUTUSDT",
+   "base": "XAUT",
+   "quoteVol24hUsd": 10760030.902345
+  },
+  {
+   "symbol": "XPLUSDT",
+   "base": "XPL",
+   "quoteVol24hUsd": 10493091.215204
+  },
+  {
+   "symbol": "INJUSDT",
+   "base": "INJ",
+   "quoteVol24hUsd": 10103648.93315
+  },
+  {
+   "symbol": "VIRTUALUSDT",
+   "base": "VIRTUAL",
+   "quoteVol24hUsd": 8913168.3195
+  },
+  {
+   "symbol": "PAXGUSDT",
+   "base": "PAXG",
+   "quoteVol24hUsd": 7998394.511963
+  },
+  {
+   "symbol": "OPUSDT",
+   "base": "OP",
+   "quoteVol24hUsd": 7800919.175234
+  },
+  {
+   "symbol": "CFGUSDT",
+   "base": "CFG",
+   "quoteVol24hUsd": 7761981.97646
+  },
+  {
+   "symbol": "FILUSDT",
+   "base": "FIL",
+   "quoteVol24hUsd": 7753262.47354
+  },
+  {
+   "symbol": "TUTUSDT",
+   "base": "TUT",
+   "quoteVol24hUsd": 7596104.54512
+  },
+  {
+   "symbol": "MSTRBUSDT",
+   "base": "MSTRB",
+   "quoteVol24hUsd": 7506597.96194
+  },
+  {
+   "symbol": "RENDERUSDT",
+   "base": "RENDER",
+   "quoteVol24hUsd": 7482557.56597
+  },
+  {
+   "symbol": "FIDAUSDT",
+   "base": "FIDA",
+   "quoteVol24hUsd": 7032460.47807
+  },
+  {
+   "symbol": "CRVUSDT",
+   "base": "CRV",
+   "quoteVol24hUsd": 6827613.19268
+  },
+  {
+   "symbol": "CAKEUSDT",
+   "base": "CAKE",
+   "quoteVol24hUsd": 6826840.9924
+  },
+  {
+   "symbol": "SUSHIUSDT",
+   "base": "SUSHI",
+   "quoteVol24hUsd": 6557423.54415
+  },
+  {
+   "symbol": "SNDKBUSDT",
+   "base": "SNDKB",
+   "quoteVol24hUsd": 6483110.375149
+  },
+  {
+   "symbol": "JTOUSDT",
+   "base": "JTO",
+   "quoteVol24hUsd": 6379185.4898
+  },
+  {
+   "symbol": "BCHUSDT",
+   "base": "BCH",
+   "quoteVol24hUsd": 6365991.5905
+  },
+  {
+   "symbol": "LDOUSDT",
+   "base": "LDO",
+   "quoteVol24hUsd": 6315589.002672
+  },
+  {
+   "symbol": "LAYERUSDT",
+   "base": "LAYER",
+   "quoteVol24hUsd": 6297853.836203
+  },
+  {
+   "symbol": "ZKUSDT",
+   "base": "ZK",
+   "quoteVol24hUsd": 6240893.068866
+  },
+  {
+   "symbol": "CATIUSDT",
+   "base": "CATI",
+   "quoteVol24hUsd": 6166703.369759
+  },
+  {
+   "symbol": "EPICUSDT",
+   "base": "EPIC",
+   "quoteVol24hUsd": 6058162.20192
+  },
+  {
+   "symbol": "XUSDUSDT",
+   "base": "XUSD",
+   "quoteVol24hUsd": 5996124.4385
+  },
+  {
+   "symbol": "HBARUSDT",
+   "base": "HBAR",
+   "quoteVol24hUsd": 5561504.08925
+  },
+  {
+   "symbol": "GRAMUSDT",
+   "base": "GRAM",
+   "quoteVol24hUsd": 5445389.53007
+  },
+  {
+   "symbol": "PENDLEUSDT",
+   "base": "PENDLE",
+   "quoteVol24hUsd": 5324631.6882
+  },
+  {
+   "symbol": "CHIPUSDT",
+   "base": "CHIP",
+   "quoteVol24hUsd": 5291229.0947
+  },
+  {
+   "symbol": "APTUSDT",
+   "base": "APT",
+   "quoteVol24hUsd": 5042010.20309
+  },
+  {
+   "symbol": "SOLVUSDT",
+   "base": "SOLV",
+   "quoteVol24hUsd": 4718271.73986
+  },
+  {
+   "symbol": "MORPHOUSDT",
+   "base": "MORPHO",
+   "quoteVol24hUsd": 4704796.61829
+  },
+  {
+   "symbol": "SOXLBUSDT",
+   "base": "SOXLB",
+   "quoteVol24hUsd": 4687191.97703
+  },
+  {
+   "symbol": "ZROUSDT",
+   "base": "ZRO",
+   "quoteVol24hUsd": 4629133.99185
+  },
+  {
+   "symbol": "METISUSDT",
+   "base": "METIS",
+   "quoteVol24hUsd": 4525064.32663
+  },
+  {
+   "symbol": "GIGGLEUSDT",
+   "base": "GIGGLE",
+   "quoteVol24hUsd": 4473108.85531
+  },
+  {
+   "symbol": "NOMUSDT",
+   "base": "NOM",
+   "quoteVol24hUsd": 4466968.69157
+  },
+  {
+   "symbol": "SEIUSDT",
+   "base": "SEI",
+   "quoteVol24hUsd": 4344869.370683
+  },
+  {
+   "symbol": "STRKUSDT",
+   "base": "STRK",
+   "quoteVol24hUsd": 4298505.7360332
+  },
+  {
+   "symbol": "QQQBUSDT",
+   "base": "QQQB",
+   "quoteVol24hUsd": 4282337.09913
+  },
+  {
+   "symbol": "BFUSDUSDT",
+   "base": "BFUSD",
+   "quoteVol24hUsd": 4218062.3099
+  },
+  {
+   "symbol": "POLUSDT",
+   "base": "POL",
+   "quoteVol24hUsd": 4096192.059901
+  },
+  {
+   "symbol": "ROSEUSDT",
+   "base": "ROSE",
+   "quoteVol24hUsd": 3740339.635479
+  },
+  {
+   "symbol": "SHIBUSDT",
+   "base": "SHIB",
+   "quoteVol24hUsd": 3481157.41862861
+  },
+  {
+   "symbol": "WLFIUSDT",
+   "base": "WLFI",
+   "quoteVol24hUsd": 3439256.916
+  },
+  {
+   "symbol": "MUBUSDT",
+   "base": "MUB",
+   "quoteVol24hUsd": 3413251.00351
+  },
+  {
+   "symbol": "币安人生USDT",
+   "base": "币安人生",
+   "quoteVol24hUsd": 3255727.7214
+  },
+  {
+   "symbol": "USDEUSDT",
+   "base": "USDE",
+   "quoteVol24hUsd": 3184752.0984
+  },
+  {
+   "symbol": "ETHFIUSDT",
+   "base": "ETHFI",
+   "quoteVol24hUsd": 3169785.77483
+  },
+  {
+   "symbol": "FORMUSDT",
+   "base": "FORM",
+   "quoteVol24hUsd": 3068160.69725
+  },
+  {
+   "symbol": "WIFUSDT",
+   "base": "WIF",
+   "quoteVol24hUsd": 2913324.221608
+  },
+  {
+   "symbol": "PYTHUSDT",
+   "base": "PYTH",
+   "quoteVol24hUsd": 2835328.472388
+  },
+  {
+   "symbol": "METUSDT",
+   "base": "MET",
+   "quoteVol24hUsd": 2637058.21086
+  },
+  {
+   "symbol": "DEXEUSDT",
+   "base": "DEXE",
+   "quoteVol24hUsd": 2535002.58377
+  },
+  {
+   "symbol": "ARUSDT",
+   "base": "AR",
+   "quoteVol24hUsd": 2514969.4073
+  },
+  {
+   "symbol": "MITOUSDT",
+   "base": "MITO",
+   "quoteVol24hUsd": 2419672.507925
+  },
+  {
+   "symbol": "SPCXBUSDT",
+   "base": "SPCXB",
+   "quoteVol24hUsd": 2417362.7565
+  },
+  {
+   "symbol": "EIGENUSDT",
+   "base": "EIGEN",
+   "quoteVol24hUsd": 2382240.883319
+  },
+  {
+   "symbol": "AEROUSDT",
+   "base": "AERO",
+   "quoteVol24hUsd": 2375270.55941
+  },
+  {
+   "symbol": "GRTUSDT",
+   "base": "GRT",
+   "quoteVol24hUsd": 2350198.1342
+  },
+  {
+   "symbol": "IOSTUSDT",
+   "base": "IOST",
+   "quoteVol24hUsd": 2303411.292879
+  },
+  {
+   "symbol": "YGGUSDT",
+   "base": "YGG",
+   "quoteVol24hUsd": 2281028.18516
+  },
+  {
+   "symbol": "BOMEUSDT",
+   "base": "BOME",
+   "quoteVol24hUsd": 2219155.9119417
+  },
+  {
+   "symbol": "WBTCUSDT",
+   "base": "WBTC",
+   "quoteVol24hUsd": 2154966.4042725
+  },
+  {
+   "symbol": "PLUMEUSDT",
+   "base": "PLUME",
+   "quoteVol24hUsd": 2136951.62646
+  },
+  {
+   "symbol": "JSTUSDT",
+   "base": "JST",
+   "quoteVol24hUsd": 2123609.924743
+  },
+  {
+   "symbol": "IOUSDT",
+   "base": "IO",
+   "quoteVol24hUsd": 2041611.052906
+  },
+  {
+   "symbol": "MUBARAKUSDT",
+   "base": "MUBARAK",
+   "quoteVol24hUsd": 2028777.42631
+  },
+  {
+   "symbol": "SOPHUSDT",
+   "base": "SOPH",
+   "quoteVol24hUsd": 2025576.27352
+  },
+  {
+   "symbol": "JASMYUSDT",
+   "base": "JASMY",
+   "quoteVol24hUsd": 1974180.24248
+  },
+  {
+   "symbol": "ENSUSDT",
+   "base": "ENS",
+   "quoteVol24hUsd": 1965336.8519
+  },
+  {
+   "symbol": "ORDIUSDT",
+   "base": "ORDI",
+   "quoteVol24hUsd": 1960518.04406
+  },
+  {
+   "symbol": "NIGHTUSDT",
+   "base": "NIGHT",
+   "quoteVol24hUsd": 1928343.1255
+  },
+  {
+   "symbol": "PHAUSDT",
+   "base": "PHA",
+   "quoteVol24hUsd": 1920767.0804
+  },
+  {
+   "symbol": "REUSDT",
+   "base": "RE",
+   "quoteVol24hUsd": 1861490.23605
+  },
+  {
+   "symbol": "LINEAUSDT",
+   "base": "LINEA",
+   "quoteVol24hUsd": 1858102.055789
+  },
+  {
+   "symbol": "ETCUSDT",
+   "base": "ETC",
+   "quoteVol24hUsd": 1843047.866
+  },
+  {
+   "symbol": "ALGOUSDT",
+   "base": "ALGO",
+   "quoteVol24hUsd": 1779222.0462
+  },
+  {
+   "symbol": "1000CATUSDT",
+   "base": "1000CAT",
+   "quoteVol24hUsd": 1771034.8002952
+  },
+  {
+   "symbol": "FLOKIUSDT",
+   "base": "FLOKI",
+   "quoteVol24hUsd": 1731184.75776441
+  },
+  {
+   "symbol": "ACEUSDT",
+   "base": "ACE",
+   "quoteVol24hUsd": 1709853.12115
+  },
+  {
+   "symbol": "TUSDT",
+   "base": "T",
+   "quoteVol24hUsd": 1684148.204299
+  },
+  {
+   "symbol": "BICOUSDT",
+   "base": "BICO",
+   "quoteVol24hUsd": 1668783.0550564
+  },
+  {
+   "symbol": "BROCCOLI714USDT",
+   "base": "BROCCOLI714",
+   "quoteVol24hUsd": 1610090.76996
+  },
+  {
+   "symbol": "TSTUSDT",
+   "base": "TST",
+   "quoteVol24hUsd": 1582401.687423
+  },
+  {
+   "symbol": "KAITOUSDT",
+   "base": "KAITO",
+   "quoteVol24hUsd": 1576480.56372
+  },
+  {
+   "symbol": "ONGUSDT",
+   "base": "ONG",
+   "quoteVol24hUsd": 1551752.93049
+  },
+  {
+   "symbol": "ADXUSDT",
+   "base": "ADX",
+   "quoteVol24hUsd": 1516807.2019
+  },
+  {
+   "symbol": "ATOMUSDT",
+   "base": "ATOM",
+   "quoteVol24hUsd": 1506503.1249
+  },
+  {
+   "symbol": "ARKMUSDT",
+   "base": "ARKM",
+   "quoteVol24hUsd": 1494016.61361
+  },
+  {
+   "symbol": "VETUSDT",
+   "base": "VET",
+   "quoteVol24hUsd": 1490693.3367716
+  },
+  {
+   "symbol": "FFUSDT",
+   "base": "FF",
+   "quoteVol24hUsd": 1435396.516471
+  },
+  {
+   "symbol": "WUSDT",
+   "base": "W",
+   "quoteVol24hUsd": 1430580.262051
+  },
+  {
+   "symbol": "SNXXBUSDT",
+   "base": "SNXXB",
+   "quoteVol24hUsd": 1428074.4666
+  },
+  {
+   "symbol": "SKHYBUSDT",
+   "base": "SKHYB",
+   "quoteVol24hUsd": 1426576.44698
+  },
+  {
+   "symbol": "RUNEUSDT",
+   "base": "RUNE",
+   "quoteVol24hUsd": 1385053.6569
+  },
+  {
+   "symbol": "TWTUSDT",
+   "base": "TWT",
+   "quoteVol24hUsd": 1316980.947
+  },
+  {
+   "symbol": "SUSDT",
+   "base": "S",
+   "quoteVol24hUsd": 1314536.186997
+  },
+  {
+   "symbol": "ZKPUSDT",
+   "base": "ZKP",
+   "quoteVol24hUsd": 1302774.96056
+  },
+  {
+   "symbol": "STXUSDT",
+   "base": "STX",
+   "quoteVol24hUsd": 1286403.71087
+  },
+  {
+   "symbol": "NEIROUSDT",
+   "base": "NEIRO",
+   "quoteVol24hUsd": 1284873.81310147
+  },
+  {
+   "symbol": "ENSOUSDT",
+   "base": "ENSO",
+   "quoteVol24hUsd": 1247003.5314
+  },
+  {
+   "symbol": "GALAUSDT",
+   "base": "GALA",
+   "quoteVol24hUsd": 1229666.482856
+  },
+  {
+   "symbol": "SIGNUSDT",
+   "base": "SIGN",
+   "quoteVol24hUsd": 1182019.23869
+  },
+  {
+   "symbol": "CFXUSDT",
+   "base": "CFX",
+   "quoteVol24hUsd": 1164967.0478
+  },
+  {
+   "symbol": "WOOUSDT",
+   "base": "WOO",
+   "quoteVol24hUsd": 1164337.519457
+  },
+  {
+   "symbol": "ENJUSDT",
+   "base": "ENJ",
+   "quoteVol24hUsd": 1163273.473907
+  },
+  {
+   "symbol": "SPKUSDT",
+   "base": "SPK",
+   "quoteVol24hUsd": 1152178.097355
+  },
+  {
+   "symbol": "DYDXUSDT",
+   "base": "DYDX",
+   "quoteVol24hUsd": 1143297.4302234
+  },
+  {
+   "symbol": "LUNCUSDT",
+   "base": "LUNC",
+   "quoteVol24hUsd": 1136321.25289381
+  },
+  {
+   "symbol": "PEOPLEUSDT",
+   "base": "PEOPLE",
+   "quoteVol24hUsd": 1119271.658379
+  },
+  {
+   "symbol": "XVGUSDT",
+   "base": "XVG",
+   "quoteVol24hUsd": 1111851.417649
+  },
+  {
+   "symbol": "PORTALUSDT",
+   "base": "PORTAL",
+   "quoteVol24hUsd": 1108257.794422
+  },
+  {
+   "symbol": "BIGTIMEUSDT",
+   "base": "BIGTIME",
+   "quoteVol24hUsd": 1082601.96988
+  },
+  {
+   "symbol": "0GUSDT",
+   "base": "0G",
+   "quoteVol24hUsd": 1081926.73067
+  },
+  {
+   "symbol": "MEGAUSDT",
+   "base": "MEGA",
+   "quoteVol24hUsd": 1080470.757768
+  },
+  {
+   "symbol": "DOGSUSDT",
+   "base": "DOGS",
+   "quoteVol24hUsd": 1060515.31948378
+  },
+  {
+   "symbol": "TRBUSDT",
+   "base": "TRB",
+   "quoteVol24hUsd": 1057658.35087
+  },
+  {
+   "symbol": "BANKUSDT",
+   "base": "BANK",
+   "quoteVol24hUsd": 1053889.94321
+  },
+  {
+   "symbol": "EGLDUSDT",
+   "base": "EGLD",
+   "quoteVol24hUsd": 1038559.73713
+  },
+  {
+   "symbol": "LAUSDT",
+   "base": "LA",
+   "quoteVol24hUsd": 1016390.00135
+  },
+  {
+   "symbol": "PNUTUSDT",
+   "base": "PNUT",
+   "quoteVol24hUsd": 1012675.91991
+  },
+  {
+   "symbol": "HEIUSDT",
+   "base": "HEI",
+   "quoteVol24hUsd": 1002495.85357
+  },
+  {
+   "symbol": "CVXUSDT",
+   "base": "CVX",
+   "quoteVol24hUsd": 966222.362122
+  },
+  {
+   "symbol": "DCRUSDT",
+   "base": "DCR",
+   "quoteVol24hUsd": 960218.99828
+  },
+  {
+   "symbol": "BMTUSDT",
+   "base": "BMT",
+   "quoteVol24hUsd": 952186.664175
+  },
+  {
+   "symbol": "BIOUSDT",
+   "base": "BIO",
+   "quoteVol24hUsd": 938059.13158
+  },
+  {
+   "symbol": "APEUSDT",
+   "base": "APE",
+   "quoteVol24hUsd": 928945.801504
+  },
+  {
+   "symbol": "1INCHUSDT",
+   "base": "1INCH",
+   "quoteVol24hUsd": 919646.44031
+  },
+  {
+   "symbol": "COMPUSDT",
+   "base": "COMP",
+   "quoteVol24hUsd": 911362.85478
+  },
+  {
+   "symbol": "KITEUSDT",
+   "base": "KITE",
+   "quoteVol24hUsd": 909732.06065
+  },
+  {
+   "symbol": "NILUSDT",
+   "base": "NIL",
+   "quoteVol24hUsd": 901314.265068
+  },
+  {
+   "symbol": "HOMEUSDT",
+   "base": "HOME",
+   "quoteVol24hUsd": 893057.09746
+  },
+  {
+   "symbol": "SANDUSDT",
+   "base": "SAND",
+   "quoteVol24hUsd": 889203.74701
+  },
+  {
+   "symbol": "THETAUSDT",
+   "base": "THETA",
+   "quoteVol24hUsd": 884556.53929
+  },
+  {
+   "symbol": "ESPUSDT",
+   "base": "ESP",
+   "quoteVol24hUsd": 875887.58788
+  },
+  {
+   "symbol": "DUSKUSDT",
+   "base": "DUSK",
+   "quoteVol24hUsd": 862644.3281
+  },
+  {
+   "symbol": "INTCBUSDT",
+   "base": "INTCB",
+   "quoteVol24hUsd": 854987.89439
+  },
+  {
+   "symbol": "IOTAUSDT",
+   "base": "IOTA",
+   "quoteVol24hUsd": 847218.083
+  },
+  {
+   "symbol": "ROBOUSDT",
+   "base": "ROBO",
+   "quoteVol24hUsd": 834971.26778
+  },
+  {
+   "symbol": "SUPERUSDT",
+   "base": "SUPER",
+   "quoteVol24hUsd": 834538.7877
+  },
+  {
+   "symbol": "SNXUSDT",
+   "base": "SNX",
+   "quoteVol24hUsd": 828952.07595
+  },
+  {
+   "symbol": "OGUSDT",
+   "base": "OG",
+   "quoteVol24hUsd": 826162.3699
+  },
+  {
+   "symbol": "OPENUSDT",
+   "base": "OPEN",
+   "quoteVol24hUsd": 822899.54469
+  },
+  {
+   "symbol": "EDUUSDT",
+   "base": "EDU",
+   "quoteVol24hUsd": 810335.9591
+  },
+  {
+   "symbol": "ASTRUSDT",
+   "base": "ASTR",
+   "quoteVol24hUsd": 792252.2094742
+  },
+  {
+   "symbol": "SKYUSDT",
+   "base": "SKY",
+   "quoteVol24hUsd": 787571.43912
+  },
+  {
+   "symbol": "BEAMXUSDT",
+   "base": "BEAMX",
+   "quoteVol24hUsd": 779274.332461
+  },
+  {
+   "symbol": "USDSUSDT",
+   "base": "USDS",
+   "quoteVol24hUsd": 774826.2077
+  },
+  {
+   "symbol": "GMXUSDT",
+   "base": "GMX",
+   "quoteVol24hUsd": 774805.29591
+  },
+  {
+   "symbol": "DJTBUSDT",
+   "base": "DJTB",
+   "quoteVol24hUsd": 770596.031
+  },
+  {
+   "symbol": "MINAUSDT",
+   "base": "MINA",
+   "quoteVol24hUsd": 763513.15571
+  },
+  {
+   "symbol": "BNSOLUSDT",
+   "base": "BNSOL",
+   "quoteVol24hUsd": 757477.8097
+  },
+  {
+   "symbol": "TREEUSDT",
+   "base": "TREE",
+   "quoteVol24hUsd": 752301.90639
+  },
+  {
+   "symbol": "MASKUSDT",
+   "base": "MASK",
+   "quoteVol24hUsd": 741136.1857
+  },
+  {
+   "symbol": "AVNTUSDT",
+   "base": "AVNT",
+   "quoteVol24hUsd": 730972.71784
+  },
+  {
+   "symbol": "DODOUSDT",
+   "base": "DODO",
+   "quoteVol24hUsd": 718863.103517
+  },
+  {
+   "symbol": "AIXBTUSDT",
+   "base": "AIXBT",
+   "quoteVol24hUsd": 709460.56067
+  },
+  {
+   "symbol": "BERAUSDT",
+   "base": "BERA",
+   "quoteVol24hUsd": 706012.8786414
+  },
+  {
+   "symbol": "BBUSDT",
+   "base": "BB",
+   "quoteVol24hUsd": 705055.228006
+  },
+  {
+   "symbol": "MOVRUSDT",
+   "base": "MOVR",
+   "quoteVol24hUsd": 703313.305754
+  },
+  {
+   "symbol": "AXSUSDT",
+   "base": "AXS",
+   "quoteVol24hUsd": 687159.07467
+  },
+  {
+   "symbol": "2ZUSDT",
+   "base": "2Z",
+   "quoteVol24hUsd": 684690.37507
+  },
+  {
+   "symbol": "FUSDT",
+   "base": "F",
+   "quoteVol24hUsd": 681164.960895
+  },
+  {
+   "symbol": "KORUBUSDT",
+   "base": "KORUB",
+   "quoteVol24hUsd": 674943.2586
+  },
+  {
+   "symbol": "FLOWUSDT",
+   "base": "FLOW",
+   "quoteVol24hUsd": 674922.3986517
+  },
+  {
+   "symbol": "ALLOUSDT",
+   "base": "ALLO",
+   "quoteVol24hUsd": 672278.37251
+  },
+  {
+   "symbol": "SOMIUSDT",
+   "base": "SOMI",
+   "quoteVol24hUsd": 665137.85007
+  },
+  {
+   "symbol": "HOODBUSDT",
+   "base": "HOODB",
+   "quoteVol24hUsd": 663875.02506
+  },
+  {
+   "symbol": "CHZUSDT",
+   "base": "CHZ",
+   "quoteVol24hUsd": 657206.45964
+  },
+  {
+   "symbol": "BARDUSDT",
+   "base": "BARD",
+   "quoteVol24hUsd": 653877.9032
+  },
+  {
+   "symbol": "MIRAUSDT",
+   "base": "MIRA",
+   "quoteVol24hUsd": 641295.448424
+  },
+  {
+   "symbol": "XVSUSDT",
+   "base": "XVS",
+   "quoteVol24hUsd": 630461.678
+  },
+  {
+   "symbol": "AIGENSYNUSDT",
+   "base": "AIGENSYN",
+   "quoteVol24hUsd": 627514.18898
+  },
+  {
+   "symbol": "IMXUSDT",
+   "base": "IMX",
+   "quoteVol24hUsd": 624970.315828
+  },
+  {
+   "symbol": "LPTUSDT",
+   "base": "LPT",
+   "quoteVol24hUsd": 613042.00909
+  },
+  {
+   "symbol": "XTZUSDT",
+   "base": "XTZ",
+   "quoteVol24hUsd": 602840.26279
+  },
+  {
+   "symbol": "HOLOUSDT",
+   "base": "HOLO",
+   "quoteVol24hUsd": 592693.79365
+  },
+  {
+   "symbol": "EDENUSDT",
+   "base": "EDEN",
+   "quoteVol24hUsd": 590556.805241
+  },
+  {
+   "symbol": "USUALUSDT",
+   "base": "USUAL",
+   "quoteVol24hUsd": 587057.318135
+  },
+  {
+   "symbol": "ONEUSDT",
+   "base": "ONE",
+   "quoteVol24hUsd": 582083.8283716
+  },
+  {
+   "symbol": "HYPERUSDT",
+   "base": "HYPER",
+   "quoteVol24hUsd": 577114.30543
+  },
+  {
+   "symbol": "REQUSDT",
+   "base": "REQ",
+   "quoteVol24hUsd": 576643.9609
+  },
+  {
+   "symbol": "SOXSBUSDT",
+   "base": "SOXSB",
+   "quoteVol24hUsd": 573969.8841
+  },
+  {
+   "symbol": "THEUSDT",
+   "base": "THE",
+   "quoteVol24hUsd": 566822.89098
+  },
+  {
+   "symbol": "OPNUSDT",
+   "base": "OPN",
+   "quoteVol24hUsd": 557841.85163
+  },
+  {
+   "symbol": "PROVEUSDT",
+   "base": "PROVE",
+   "quoteVol24hUsd": 548838.6365
+  },
+  {
+   "symbol": "LUNAUSDT",
+   "base": "LUNA",
+   "quoteVol24hUsd": 544799.635988
+  },
+  {
+   "symbol": "QNTUSDT",
+   "base": "QNT",
+   "quoteVol24hUsd": 536687.85379
+  },
+  {
+   "symbol": "EWYBUSDT",
+   "base": "EWYB",
+   "quoteVol24hUsd": 526493.97531
+  },
+  {
+   "symbol": "SCUSDT",
+   "base": "SC",
+   "quoteVol24hUsd": 526345.57785
+  },
+  {
+   "symbol": "PARTIUSDT",
+   "base": "PARTI",
+   "quoteVol24hUsd": 519564.78304
+  },
+  {
+   "symbol": "SAGAUSDT",
+   "base": "SAGA",
+   "quoteVol24hUsd": 510590.978325
+  },
+  {
+   "symbol": "DIAUSDT",
+   "base": "DIA",
+   "quoteVol24hUsd": 508820.01954
+  },
+  {
+   "symbol": "SPYBUSDT",
+   "base": "SPYB",
+   "quoteVol24hUsd": 508359.52912
+  },
+  {
+   "symbol": "KAVAUSDT",
+   "base": "KAVA",
+   "quoteVol24hUsd": 507074.974863
+  },
+  {
+   "symbol": "LISTAUSDT",
+   "base": "LISTA",
+   "quoteVol24hUsd": 499134.31576
+  },
+  {
+   "symbol": "AUCTIONUSDT",
+   "base": "AUCTION",
+   "quoteVol24hUsd": 493651.73922
+  },
+  {
+   "symbol": "REZUSDT",
+   "base": "REZ",
+   "quoteVol24hUsd": 487751.3954295
+  },
+  {
+   "symbol": "ZBTUSDT",
+   "base": "ZBT",
+   "quoteVol24hUsd": 483304.77534
+  },
+  {
+   "symbol": "AVGOBUSDT",
+   "base": "AVGOB",
+   "quoteVol24hUsd": 480124.45128
+  },
+  {
+   "symbol": "HMSTRUSDT",
+   "base": "HMSTR",
+   "quoteVol24hUsd": 474106.0585992
+  },
+  {
+   "symbol": "KSMUSDT",
+   "base": "KSM",
+   "quoteVol24hUsd": 469985.67222
+  },
+  {
+   "symbol": "RSRUSDT",
+   "base": "RSR",
+   "quoteVol24hUsd": 464823.898766
+  },
+  {
+   "symbol": "KMNOUSDT",
+   "base": "KMNO",
+   "quoteVol24hUsd": 454513.094
+  },
+  {
+   "symbol": "EULUSDT",
+   "base": "EUL",
+   "quoteVol24hUsd": 454219.57876
+  },
+  {
+   "symbol": "BATUSDT",
+   "base": "BAT",
+   "quoteVol24hUsd": 450788.2963
+  },
+  {
+   "symbol": "ALICEUSDT",
+   "base": "ALICE",
+   "quoteVol24hUsd": 448114.963474
+  },
+  {
+   "symbol": "MANTRAUSDT",
+   "base": "MANTRA",
+   "quoteVol24hUsd": 448097.46399
+  },
+  {
+   "symbol": "ANKRUSDT",
+   "base": "ANKR",
+   "quoteVol24hUsd": 444628.638452
+  },
+  {
+   "symbol": "MBLUSDT",
+   "base": "MBL",
+   "quoteVol24hUsd": 444432.282901
+  },
+  {
+   "symbol": "WALUSDT",
+   "base": "WAL",
+   "quoteVol24hUsd": 443936.78616
+  },
+  {
+   "symbol": "GPSUSDT",
+   "base": "GPS",
+   "quoteVol24hUsd": 441350.599359
+  },
+  {
+   "symbol": "RIFUSDT",
+   "base": "RIF",
+   "quoteVol24hUsd": 440221.2929
+  },
+  {
+   "symbol": "TSLABUSDT",
+   "base": "TSLAB",
+   "quoteVol24hUsd": 438020.70195
+  },
+  {
+   "symbol": "TOWNSUSDT",
+   "base": "TOWNS",
+   "quoteVol24hUsd": 437288.46435
+  },
+  {
+   "symbol": "IDUSDT",
+   "base": "ID",
+   "quoteVol24hUsd": 425617.6176
+  },
+  {
+   "symbol": "SENTUSDT",
+   "base": "SENT",
+   "quoteVol24hUsd": 422957.13462
+  },
+  {
+   "symbol": "1000SATSUSDT",
+   "base": "1000SATS",
+   "quoteVol24hUsd": 422807.85210635
+  },
+  {
+   "symbol": "PIXELUSDT",
+   "base": "PIXEL",
+   "quoteVol24hUsd": 422457.272259
+  },
+  {
+   "symbol": "ALTUSDT",
+   "base": "ALT",
+   "quoteVol24hUsd": 421850.26022
+  },
+  {
+   "symbol": "SCRUSDT",
+   "base": "SCR",
+   "quoteVol24hUsd": 421790.587466
+  },
+  {
+   "symbol": "AVAUSDT",
+   "base": "AVA",
+   "quoteVol24hUsd": 420035.87339
+  },
+  {
+   "symbol": "API3USDT",
+   "base": "API3",
+   "quoteVol24hUsd": 419145.204749
+  },
+  {
+   "symbol": "BABYUSDT",
+   "base": "BABY",
+   "quoteVol24hUsd": 413381.58046
+  },
+  {
+   "symbol": "MMTUSDT",
+   "base": "MMT",
+   "quoteVol24hUsd": 407984.21803
+  },
+  {
+   "symbol": "SUNUSDT",
+   "base": "SUN",
+   "quoteVol24hUsd": 407486.03289
+  },
+  {
+   "symbol": "NEXOUSDT",
+   "base": "NEXO",
+   "quoteVol24hUsd": 406842.09367
+  },
+  {
+   "symbol": "JOEUSDT",
+   "base": "JOE",
+   "quoteVol24hUsd": 406736.713399
+  },
+  {
+   "symbol": "CELOUSDT",
+   "base": "CELO",
+   "quoteVol24hUsd": 404008.121062
+  },
+  {
+   "symbol": "TURBOUSDT",
+   "base": "TURBO",
+   "quoteVol24hUsd": 395930.45421
+  },
+  {
+   "symbol": "MRVLBUSDT",
+   "base": "MRVLB",
+   "quoteVol24hUsd": 395859.25589
+  },
+  {
+   "symbol": "VELODROMEUSDT",
+   "base": "VELODROME",
+   "quoteVol24hUsd": 394516.571941
+  },
+  {
+   "symbol": "NOTUSDT",
+   "base": "NOT",
+   "quoteVol24hUsd": 391812.360245
+  },
+  {
+   "symbol": "SKLUSDT",
+   "base": "SKL",
+   "quoteVol24hUsd": 391550.96425
+  },
+  {
+   "symbol": "NVDABUSDT",
+   "base": "NVDAB",
+   "quoteVol24hUsd": 385774.48089
+  },
+  {
+   "symbol": "COWUSDT",
+   "base": "COW",
+   "quoteVol24hUsd": 382353.26089
+  },
+  {
+   "symbol": "ILVUSDT",
+   "base": "ILV",
+   "quoteVol24hUsd": 379997.1869
+  },
+  {
+   "symbol": "HUMAUSDT",
+   "base": "HUMA",
+   "quoteVol24hUsd": 378113.77989
+  },
+  {
+   "symbol": "ACHUSDT",
+   "base": "ACH",
+   "quoteVol24hUsd": 377260.7757
+  },
+  {
+   "symbol": "MEMEUSDT",
+   "base": "MEME",
+   "quoteVol24hUsd": 375920.308176
+  },
+  {
+   "symbol": "CGPTUSDT",
+   "base": "CGPT",
+   "quoteVol24hUsd": 375055.303758
+  },
+  {
+   "symbol": "WBETHUSDT",
+   "base": "WBETH",
+   "quoteVol24hUsd": 372944.806892
+  },
+  {
+   "symbol": "GUNUSDT",
+   "base": "GUN",
+   "quoteVol24hUsd": 372069.43387
+  },
+  {
+   "symbol": "BANANAUSDT",
+   "base": "BANANA",
+   "quoteVol24hUsd": 371820.73307
+  },
+  {
+   "symbol": "GOOGLBUSDT",
+   "base": "GOOGLB",
+   "quoteVol24hUsd": 366080.48615
+  },
+  {
+   "symbol": "YBUSDT",
+   "base": "YB",
+   "quoteVol24hUsd": 365052.66505
+  },
+  {
+   "symbol": "KAIAUSDT",
+   "base": "KAIA",
+   "quoteVol24hUsd": 361798.14101
+  },
+  {
+   "symbol": "BLURUSDT",
+   "base": "BLUR",
+   "quoteVol24hUsd": 359453.39165
+  },
+  {
+   "symbol": "RADUSDT",
+   "base": "RAD",
+   "quoteVol24hUsd": 353259.0899
+  },
+  {
+   "symbol": "NEOUSDT",
+   "base": "NEO",
+   "quoteVol24hUsd": 352119.06622
+  },
+  {
+   "symbol": "MUUBUSDT",
+   "base": "MUUB",
+   "quoteVol24hUsd": 351866.8885
+  },
+  {
+   "symbol": "NMRUSDT",
+   "base": "NMR",
+   "quoteVol24hUsd": 350339.1551
+  },
+  {
+   "symbol": "MANAUSDT",
+   "base": "MANA",
+   "quoteVol24hUsd": 350183.1526
+  },
+  {
+   "symbol": "DGBUSDT",
+   "base": "DGB",
+   "quoteVol24hUsd": 350179.247059
+  },
+  {
+   "symbol": "KATUSDT",
+   "base": "KAT",
+   "quoteVol24hUsd": 345591.49826
+  },
+  {
+   "symbol": "ERAUSDT",
+   "base": "ERA",
+   "quoteVol24hUsd": 345543.59009
+  },
+  {
+   "symbol": "REDUSDT",
+   "base": "RED",
+   "quoteVol24hUsd": 344495.60441
+  },
+  {
+   "symbol": "TLMUSDT",
+   "base": "TLM",
+   "quoteVol24hUsd": 343562.05748
+  },
+  {
+   "symbol": "1MBABYDOGEUSDT",
+   "base": "1MBABYDOGE",
+   "quoteVol24hUsd": 342229.108445
+  },
+  {
+   "symbol": "1000CHEEMSUSDT",
+   "base": "1000CHEEMS",
+   "quoteVol24hUsd": 342105.511232
+  },
+  {
+   "symbol": "SYNUSDT",
+   "base": "SYN",
+   "quoteVol24hUsd": 340067.610723
+  },
+  {
+   "symbol": "AMPUSDT",
+   "base": "AMP",
+   "quoteVol24hUsd": 339379.273955
+  },
+  {
+   "symbol": "MANTAUSDT",
+   "base": "MANTA",
+   "quoteVol24hUsd": 338120.720837
+  },
+  {
+   "symbol": "VANAUSDT",
+   "base": "VANA",
+   "quoteVol24hUsd": 325502.01786
+  },
+  {
+   "symbol": "CKBUSDT",
+   "base": "CKB",
+   "quoteVol24hUsd": 314114.097058
+  },
+  {
+   "symbol": "XECUSDT",
+   "base": "XEC",
+   "quoteVol24hUsd": 309242.64903581
+  },
+  {
+   "symbol": "MEUSDT",
+   "base": "ME",
+   "quoteVol24hUsd": 301786.9185471
+  },
+  {
+   "symbol": "SLPUSDT",
+   "base": "SLP",
+   "quoteVol24hUsd": 300703.596128
+  },
+  {
+   "symbol": "NBISBUSDT",
+   "base": "NBISB",
+   "quoteVol24hUsd": 299722.95969
+  },
+  {
+   "symbol": "STOUSDT",
+   "base": "STO",
+   "quoteVol24hUsd": 296819.05328
+  },
+  {
+   "symbol": "PUNDIXUSDT",
+   "base": "PUNDIX",
+   "quoteVol24hUsd": 293787.70472
+  },
+  {
+   "symbol": "AEVOUSDT",
+   "base": "AEVO",
+   "quoteVol24hUsd": 293445.8619129
+  },
+  {
+   "symbol": "POLYXUSDT",
+   "base": "POLYX",
+   "quoteVol24hUsd": 292418.83588
+  },
+  {
+   "symbol": "HIVEUSDT",
+   "base": "HIVE",
+   "quoteVol24hUsd": 291214.2174
+  },
+  {
+   "symbol": "BREVUSDT",
+   "base": "BREV",
+   "quoteVol24hUsd": 289587.96679
+  },
+  {
+   "symbol": "LUMIAUSDT",
+   "base": "LUMIA",
+   "quoteVol24hUsd": 284548.381975
+  },
+  {
+   "symbol": "YFIUSDT",
+   "base": "YFI",
+   "quoteVol24hUsd": 283833.6091
+  },
+  {
+   "symbol": "CELRUSDT",
+   "base": "CELR",
+   "quoteVol24hUsd": 283786.4006512
+  },
+  {
+   "symbol": "COINBUSDT",
+   "base": "COINB",
+   "quoteVol24hUsd": 283756.23669
+  },
+  {
+   "symbol": "XAIUSDT",
+   "base": "XAI",
+   "quoteVol24hUsd": 283591.598797
+  },
+  {
+   "symbol": "ATUSDT",
+   "base": "AT",
+   "quoteVol24hUsd": 279736.65305
+  },
+  {
+   "symbol": "RVNUSDT",
+   "base": "RVN",
+   "quoteVol24hUsd": 278893.294113
+  },
+  {
+   "symbol": "AUSDT",
+   "base": "A",
+   "quoteVol24hUsd": 277936.74323
+  },
+  {
+   "symbol": "CHRUSDT",
+   "base": "CHR",
+   "quoteVol24hUsd": 272763.14516
+  },
+  {
+   "symbol": "TNSRUSDT",
+   "base": "TNSR",
+   "quoteVol24hUsd": 269440.78628
+  },
+  {
+   "symbol": "RONINUSDT",
+   "base": "RONIN",
+   "quoteVol24hUsd": 268745.615605
+  },
+  {
+   "symbol": "SPELLUSDT",
+   "base": "SPELL",
+   "quoteVol24hUsd": 266738.1047259
+  },
+  {
+   "symbol": "AIUSDT",
+   "base": "AI",
+   "quoteVol24hUsd": 264478.33763
+  },
+  {
+   "symbol": "AUDIOUSDT",
+   "base": "AUDIO",
+   "quoteVol24hUsd": 263236.108947
+  },
+  {
+   "symbol": "OPGUSDT",
+   "base": "OPG",
+   "quoteVol24hUsd": 262575.74298
+  },
+  {
+   "symbol": "BANANAS31USDT",
+   "base": "BANANAS31",
+   "quoteVol24hUsd": 259439.828598
+  },
+  {
+   "symbol": "RPLUSDT",
+   "base": "RPL",
+   "quoteVol24hUsd": 259216.74411
+  },
+  {
+   "symbol": "STGUSDT",
+   "base": "STG",
+   "quoteVol24hUsd": 257034.58356
+  },
+  {
+   "symbol": "DRAMBUSDT",
+   "base": "DRAMB",
+   "quoteVol24hUsd": 253218.789
+  },
+  {
+   "symbol": "ANIMEUSDT",
+   "base": "ANIME",
+   "quoteVol24hUsd": 250390.622083
+  },
+  {
+   "symbol": "GNOUSDT",
+   "base": "GNO",
+   "quoteVol24hUsd": 249644.79392
+  },
+  {
+   "symbol": "NEWTUSDT",
+   "base": "NEWT",
+   "quoteVol24hUsd": 248124.555615
+  },
+  {
+   "symbol": "ATMUSDT",
+   "base": "ATM",
+   "quoteVol24hUsd": 247416.59277
+  },
+  {
+   "symbol": "KERNELUSDT",
+   "base": "KERNEL",
+   "quoteVol24hUsd": 246266.4403
+  },
+  {
+   "symbol": "SXTUSDT",
+   "base": "SXT",
+   "quoteVol24hUsd": 241289.357399
+  },
+  {
+   "symbol": "QIUSDT",
+   "base": "QI",
+   "quoteVol24hUsd": 238453.949853
+  },
+  {
+   "symbol": "DYMUSDT",
+   "base": "DYM",
+   "quoteVol24hUsd": 237763.663823
+  },
+  {
+   "symbol": "MAVUSDT",
+   "base": "MAV",
+   "quoteVol24hUsd": 235503.49185
+  },
+  {
+   "symbol": "AMDBUSDT",
+   "base": "AMDB",
+   "quoteVol24hUsd": 233436.49956
+  },
+  {
+   "symbol": "AXLUSDT",
+   "base": "AXL",
+   "quoteVol24hUsd": 233231.422429
+  },
+  {
+   "symbol": "BMNRBUSDT",
+   "base": "BMNRB",
+   "quoteVol24hUsd": 233077.0133
+  },
+  {
+   "symbol": "BELUSDT",
+   "base": "BEL",
+   "quoteVol24hUsd": 231189.56308
+  },
+  {
+   "symbol": "WCTUSDT",
+   "base": "WCT",
+   "quoteVol24hUsd": 228725.153254
+  },
+  {
+   "symbol": "FOGOUSDT",
+   "base": "FOGO",
+   "quoteVol24hUsd": 225088.6995
+  },
+  {
+   "symbol": "CYBERUSDT",
+   "base": "CYBER",
+   "quoteVol24hUsd": 223604.40404
+  },
+  {
+   "symbol": "ACTUSDT",
+   "base": "ACT",
+   "quoteVol24hUsd": 221588.02756
+  },
+  {
+   "symbol": "CETUSUSDT",
+   "base": "CETUS",
+   "quoteVol24hUsd": 216251.178401
+  },
+  {
+   "symbol": "RLCUSDT",
+   "base": "RLC",
+   "quoteVol24hUsd": 213640.28526
+  },
+  {
+   "symbol": "SSVUSDT",
+   "base": "SSV",
+   "quoteVol24hUsd": 213436.515579
+  },
+  {
+   "symbol": "AAOIBUSDT",
+   "base": "AAOIB",
+   "quoteVol24hUsd": 212323.26202
+  },
+  {
+   "symbol": "BTTCUSDT",
+   "base": "BTTC",
+   "quoteVol24hUsd": 210089.67911359
+  },
+  {
+   "symbol": "SAPIENUSDT",
+   "base": "SAPIEN",
+   "quoteVol24hUsd": 208350.26484
+  },
+  {
+   "symbol": "GLMRUSDT",
+   "base": "GLMR",
+   "quoteVol24hUsd": 206896.8564029
+  },
+  {
+   "symbol": "SHELLUSDT",
+   "base": "SHELL",
+   "quoteVol24hUsd": 202690.56227
+  },
+  {
+   "symbol": "TKOUSDT",
+   "base": "TKO",
+   "quoteVol24hUsd": 199191.15266
+  },
+  {
+   "symbol": "GENIUSUSDT",
+   "base": "GENIUS",
+   "quoteVol24hUsd": 198976.85433
+  },
+  {
+   "symbol": "PSGUSDT",
+   "base": "PSG",
+   "quoteVol24hUsd": 197845.93894
+  },
+  {
+   "symbol": "USTCUSDT",
+   "base": "USTC",
+   "quoteVol24hUsd": 197646.47738
+  },
+  {
+   "symbol": "KNCUSDT",
+   "base": "KNC",
+   "quoteVol24hUsd": 196578.14601
+  },
+  {
+   "symbol": "AAPLBUSDT",
+   "base": "AAPLB",
+   "quoteVol24hUsd": 191308.72999
+  },
+  {
+   "symbol": "INITUSDT",
+   "base": "INIT",
+   "quoteVol24hUsd": 189621.510992
+  },
+  {
+   "symbol": "SANTOSUSDT",
+   "base": "SANTOS",
+   "quoteVol24hUsd": 187322.22598
+  },
+  {
+   "symbol": "OSMOUSDT",
+   "base": "OSMO",
+   "quoteVol24hUsd": 184815.847801
+  },
+  {
+   "symbol": "C98USDT",
+   "base": "C98",
+   "quoteVol24hUsd": 183876.82809
+  },
+  {
+   "symbol": "UMAUSDT",
+   "base": "UMA",
+   "quoteVol24hUsd": 181543.5732
+  },
+  {
+   "symbol": "GMTUSDT",
+   "base": "GMT",
+   "quoteVol24hUsd": 180110.560845
+  },
+  {
+   "symbol": "ZILUSDT",
+   "base": "ZIL",
+   "quoteVol24hUsd": 179989.7526851
+  },
+  {
+   "symbol": "WINUSDT",
+   "base": "WIN",
+   "quoteVol24hUsd": 178168.32329054
+  },
+  {
+   "symbol": "RESOLVUSDT",
+   "base": "RESOLV",
+   "quoteVol24hUsd": 177988.287805
+  },
+  {
+   "symbol": "ARPAUSDT",
+   "base": "ARPA",
+   "quoteVol24hUsd": 177589.375562
+  },
+  {
+   "symbol": "COOKIEUSDT",
+   "base": "COOKIE",
+   "quoteVol24hUsd": 172026.36413
+  },
+  {
+   "symbol": "NXPCUSDT",
+   "base": "NXPC",
+   "quoteVol24hUsd": 167857.32196
+  },
+  {
+   "symbol": "WAXPUSDT",
+   "base": "WAXP",
+   "quoteVol24hUsd": 165703.84259
+  },
+  {
+   "symbol": "HOTUSDT",
+   "base": "HOT",
+   "quoteVol24hUsd": 161570.468342
+  },
+  {
+   "symbol": "JUVUSDT",
+   "base": "JUV",
+   "quoteVol24hUsd": 159978.45288
+  },
+  {
+   "symbol": "ONTUSDT",
+   "base": "ONT",
+   "quoteVol24hUsd": 156434.40958
+  },
+  {
+   "symbol": "MAGICUSDT",
+   "base": "MAGIC",
+   "quoteVol24hUsd": 154373.83977
+  },
+  {
+   "symbol": "IOTXUSDT",
+   "base": "IOTX",
+   "quoteVol24hUsd": 153754.614557
+  },
+  {
+   "symbol": "TQQQBUSDT",
+   "base": "TQQQB",
+   "quoteVol24hUsd": 152160.9478
+  },
+  {
+   "symbol": "FTTUSDT",
+   "base": "FTT",
+   "quoteVol24hUsd": 151426.939585
+  },
+  {
+   "symbol": "MOVEUSDT",
+   "base": "MOVE",
+   "quoteVol24hUsd": 150349.14513
+  },
+  {
+   "symbol": "CRDOBUSDT",
+   "base": "CRDOB",
+   "quoteVol24hUsd": 149368.7022
+  },
+  {
+   "symbol": "AXTIBUSDT",
+   "base": "AXTIB",
+   "quoteVol24hUsd": 146812.2648
+  },
+  {
+   "symbol": "BABABUSDT",
+   "base": "BABAB",
+   "quoteVol24hUsd": 146528.64577
+  },
+  {
+   "symbol": "ACMUSDT",
+   "base": "ACM",
+   "quoteVol24hUsd": 144038.4067
+  },
+  {
+   "symbol": "GNSUSDT",
+   "base": "GNS",
+   "quoteVol24hUsd": 142245.99413
+  },
+  {
+   "symbol": "OGNUSDT",
+   "base": "OGN",
+   "quoteVol24hUsd": 141783.74491
+  },
+  {
+   "symbol": "AWEUSDT",
+   "base": "AWE",
+   "quoteVol24hUsd": 140160.1048
+  },
+  {
+   "symbol": "CVCUSDT",
+   "base": "CVC",
+   "quoteVol24hUsd": 139045.80343
+  },
+  {
+   "symbol": "CBRSBUSDT",
+   "base": "CBRSB",
+   "quoteVol24hUsd": 138439.70311
+  },
+  {
+   "symbol": "ZRXUSDT",
+   "base": "ZRX",
+   "quoteVol24hUsd": 137419.5129
+  },
+  {
+   "symbol": "CITYUSDT",
+   "base": "CITY",
+   "quoteVol24hUsd": 136668.35967
+  },
+  {
+   "symbol": "BEBUSDT",
+   "base": "BEB",
+   "quoteVol24hUsd": 135729.88626
+  },
+  {
+   "symbol": "RAREUSDT",
+   "base": "RARE",
+   "quoteVol24hUsd": 134345.943172
+  },
+  {
+   "symbol": "STRAXUSDT",
+   "base": "STRAX",
+   "quoteVol24hUsd": 131646.72875
+  },
+  {
+   "symbol": "INTWBUSDT",
+   "base": "INTWB",
+   "quoteVol24hUsd": 126766.0353
+  },
+  {
+   "symbol": "BNTUSDT",
+   "base": "BNT",
+   "quoteVol24hUsd": 126266.2616
+  },
+  {
+   "symbol": "CTSIUSDT",
+   "base": "CTSI",
+   "quoteVol24hUsd": 125846.66645
+  },
+  {
+   "symbol": "TFUELUSDT",
+   "base": "TFUEL",
+   "quoteVol24hUsd": 123557.32411
+  },
+  {
+   "symbol": "ALPINEUSDT",
+   "base": "ALPINE",
+   "quoteVol24hUsd": 121385.98899
+  },
+  {
+   "symbol": "BARUSDT",
+   "base": "BAR",
+   "quoteVol24hUsd": 118780.43444
+  },
+  {
+   "symbol": "COHRBUSDT",
+   "base": "COHRB",
+   "quoteVol24hUsd": 118717.80259
+  },
+  {
+   "symbol": "DOLOUSDT",
+   "base": "DOLO",
+   "quoteVol24hUsd": 116998.333148
+  },
+  {
+   "symbol": "CUSDT",
+   "base": "C",
+   "quoteVol24hUsd": 116571.31565
+  },
+  {
+   "symbol": "RKLBBUSDT",
+   "base": "RKLBB",
+   "quoteVol24hUsd": 115658.5288
+  },
+  {
+   "symbol": "GASUSDT",
+   "base": "GAS",
+   "quoteVol24hUsd": 115517.9292
+  },
+  {
+   "symbol": "XNOUSDT",
+   "base": "XNO",
+   "quoteVol24hUsd": 111965.73576
+  },
+  {
+   "symbol": "FRAXUSDT",
+   "base": "FRAX",
+   "quoteVol24hUsd": 111173.776
+  },
+  {
+   "symbol": "MVLLBUSDT",
+   "base": "MVLLB",
+   "quoteVol24hUsd": 110941.0102
+  },
+  {
+   "symbol": "ORCLBUSDT",
+   "base": "ORCLB",
+   "quoteVol24hUsd": 110041.2607
+  },
+  {
+   "symbol": "AGLDUSDT",
+   "base": "AGLD",
+   "quoteVol24hUsd": 108798.97225
+  },
+  {
+   "symbol": "ASRUSDT",
+   "base": "ASR",
+   "quoteVol24hUsd": 106564.371
+  },
+  {
+   "symbol": "HAEDALUSDT",
+   "base": "HAEDAL",
+   "quoteVol24hUsd": 104581.729125
+  },
+  {
+   "symbol": "LITEBUSDT",
+   "base": "LITEB",
+   "quoteVol24hUsd": 103215.18819
+  },
+  {
+   "symbol": "DELLBUSDT",
+   "base": "DELLB",
+   "quoteVol24hUsd": 103018.41273
+  },
+  {
+   "symbol": "GMEBUSDT",
+   "base": "GMEB",
+   "quoteVol24hUsd": 102506.9938
+  },
+  {
+   "symbol": "METABUSDT",
+   "base": "METAB",
+   "quoteVol24hUsd": 102152.5305
+  },
+  {
+   "symbol": "LQTYUSDT",
+   "base": "LQTY",
+   "quoteVol24hUsd": 101402.9235
+  },
+  {
+   "symbol": "ALABBUSDT",
+   "base": "ALABB",
+   "quoteVol24hUsd": 101188.94235
+  }
+ ]
+}

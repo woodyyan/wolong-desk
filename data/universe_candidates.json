@@ -1,0 +1,541 @@
+{
+ "generated_at": "2026-09-07T14:26:30",
+ "filter": "USDT+TRADING+非稳定币/杠杆代币+24hQuoteVol≥$2M(thr=2000000)",
+ "coins": [
+  {
+   "symbol": "BTCUSDT",
+   "base": "BTC",
+   "quoteVol24hUsd": 798796796.0
+  },
+  {
+   "symbol": "ETHUSDT",
+   "base": "ETH",
+   "quoteVol24hUsd": 562248082.0
+  },
+  {
+   "symbol": "ZECUSDT",
+   "base": "ZEC",
+   "quoteVol24hUsd": 397530578.0
+  },
+  {
+   "symbol": "SOLUSDT",
+   "base": "SOL",
+   "quoteVol24hUsd": 278768778.0
+  },
+  {
+   "symbol": "XRPUSDT",
+   "base": "XRP",
+   "quoteVol24hUsd": 125236169.0
+  },
+  {
+   "symbol": "BNBUSDT",
+   "base": "BNB",
+   "quoteVol24hUsd": 121985504.0
+  },
+  {
+   "symbol": "NEARUSDT",
+   "base": "NEAR",
+   "quoteVol24hUsd": 91035797.0
+  },
+  {
+   "symbol": "DOGEUSDT",
+   "base": "DOGE",
+   "quoteVol24hUsd": 77639675.0
+  },
+  {
+   "symbol": "ARBUSDT",
+   "base": "ARB",
+   "quoteVol24hUsd": 76162971.0
+  },
+  {
+   "symbol": "TAOUSDT",
+   "base": "TAO",
+   "quoteVol24hUsd": 76038938.0
+  },
+  {
+   "symbol": "UNIUSDT",
+   "base": "UNI",
+   "quoteVol24hUsd": 71510211.0
+  },
+  {
+   "symbol": "LINKUSDT",
+   "base": "LINK",
+   "quoteVol24hUsd": 63423823.0
+  },
+  {
+   "symbol": "PROMUSDT",
+   "base": "PROM",
+   "quoteVol24hUsd": 61944553.0
+  },
+  {
+   "symbol": "SUIUSDT",
+   "base": "SUI",
+   "quoteVol24hUsd": 61465241.0
+  },
+  {
+   "symbol": "DASHUSDT",
+   "base": "DASH",
+   "quoteVol24hUsd": 59658186.0
+  },
+  {
+   "symbol": "SAHARAUSDT",
+   "base": "SAHARA",
+   "quoteVol24hUsd": 54291647.0
+  },
+  {
+   "symbol": "MARSCOINUSDT",
+   "base": "MARSCOIN",
+   "quoteVol24hUsd": 51082470.0
+  },
+  {
+   "symbol": "PUMPUSDT",
+   "base": "PUMP",
+   "quoteVol24hUsd": 39805280.0
+  },
+  {
+   "symbol": "RAYUSDT",
+   "base": "RAY",
+   "quoteVol24hUsd": 36220857.0
+  },
+  {
+   "symbol": "ADAUSDT",
+   "base": "ADA",
+   "quoteVol24hUsd": 32492944.0
+  },
+  {
+   "symbol": "ENAUSDT",
+   "base": "ENA",
+   "quoteVol24hUsd": 31860788.0
+  },
+  {
+   "symbol": "WLDUSDT",
+   "base": "WLD",
+   "quoteVol24hUsd": 28944917.0
+  },
+  {
+   "symbol": "AVAXUSDT",
+   "base": "AVAX",
+   "quoteVol24hUsd": 21670397.0
+  },
+  {
+   "symbol": "HEMIUSDT",
+   "base": "HEMI",
+   "quoteVol24hUsd": 21374819.0
+  },
+  {
+   "symbol": "TRXUSDT",
+   "base": "TRX",
+   "quoteVol24hUsd": 21017500.0
+  },
+  {
+   "symbol": "TRUMPUSDT",
+   "base": "TRUMP",
+   "quoteVol24hUsd": 20914117.0
+  },
+  {
+   "symbol": "LTCUSDT",
+   "base": "LTC",
+   "quoteVol24hUsd": 20510240.0
+  },
+  {
+   "symbol": "ASTERUSDT",
+   "base": "ASTER",
+   "quoteVol24hUsd": 19739713.0
+  },
+  {
+   "symbol": "PEPEUSDT",
+   "base": "PEPE",
+   "quoteVol24hUsd": 19704399.0
+  },
+  {
+   "symbol": "ICPUSDT",
+   "base": "ICP",
+   "quoteVol24hUsd": 16615917.0
+  },
+  {
+   "symbol": "ZAMAUSDT",
+   "base": "ZAMA",
+   "quoteVol24hUsd": 16415144.0
+  },
+  {
+   "symbol": "XLMUSDT",
+   "base": "XLM",
+   "quoteVol24hUsd": 16274431.0
+  },
+  {
+   "symbol": "UUSDT",
+   "base": "U",
+   "quoteVol24hUsd": 16071929.0
+  },
+  {
+   "symbol": "ZENUSDT",
+   "base": "ZEN",
+   "quoteVol24hUsd": 15159302.0
+  },
+  {
+   "symbol": "FETUSDT",
+   "base": "FET",
+   "quoteVol24hUsd": 14778168.0
+  },
+  {
+   "symbol": "TIAUSDT",
+   "base": "TIA",
+   "quoteVol24hUsd": 14199015.0
+  },
+  {
+   "symbol": "ONDOUSDT",
+   "base": "ONDO",
+   "quoteVol24hUsd": 14051623.0
+  },
+  {
+   "symbol": "DOTUSDT",
+   "base": "DOT",
+   "quoteVol24hUsd": 12905956.0
+  },
+  {
+   "symbol": "ZKCUSDT",
+   "base": "ZKC",
+   "quoteVol24hUsd": 12510736.0
+  },
+  {
+   "symbol": "COTIUSDT",
+   "base": "COTI",
+   "quoteVol24hUsd": 12296642.0
+  },
+  {
+   "symbol": "AAVEUSDT",
+   "base": "AAVE",
+   "quoteVol24hUsd": 12286934.0
+  },
+  {
+   "symbol": "BONKUSDT",
+   "base": "BONK",
+   "quoteVol24hUsd": 11678396.0
+  },
+  {
+   "symbol": "ORCAUSDT",
+   "base": "ORCA",
+   "quoteVol24hUsd": 11645946.0
+  },
+  {
+   "symbol": "PENGUUSDT",
+   "base": "PENGU",
+   "quoteVol24hUsd": 11043022.0
+  },
+  {
+   "symbol": "XAUTUSDT",
+   "base": "XAUT",
+   "quoteVol24hUsd": 10327247.0
+  },
+  {
+   "symbol": "CRCLBUSDT",
+   "base": "CRCLB",
+   "quoteVol24hUsd": 10304469.0
+  },
+  {
+   "symbol": "INJUSDT",
+   "base": "INJ",
+   "quoteVol24hUsd": 10095894.0
+  },
+  {
+   "symbol": "XPLUSDT",
+   "base": "XPL",
+   "quoteVol24hUsd": 9842138.0
+  },
+  {
+   "symbol": "VIRTUALUSDT",
+   "base": "VIRTUAL",
+   "quoteVol24hUsd": 8654998.0
+  },
+  {
+   "symbol": "OPUSDT",
+   "base": "OP",
+   "quoteVol24hUsd": 8590371.0
+  },
+  {
+   "symbol": "CAKEUSDT",
+   "base": "CAKE",
+   "quoteVol24hUsd": 8229693.0
+  },
+  {
+   "symbol": "PAXGUSDT",
+   "base": "PAXG",
+   "quoteVol24hUsd": 8090471.0
+  },
+  {
+   "symbol": "TUTUSDT",
+   "base": "TUT",
+   "quoteVol24hUsd": 7884123.0
+  },
+  {
+   "symbol": "EPICUSDT",
+   "base": "EPIC",
+   "quoteVol24hUsd": 7292652.0
+  },
+  {
+   "symbol": "RENDERUSDT",
+   "base": "RENDER",
+   "quoteVol24hUsd": 7136636.0
+  },
+  {
+   "symbol": "CRVUSDT",
+   "base": "CRV",
+   "quoteVol24hUsd": 7018678.0
+  },
+  {
+   "symbol": "SUSHIUSDT",
+   "base": "SUSHI",
+   "quoteVol24hUsd": 6908571.0
+  },
+  {
+   "symbol": "FIDAUSDT",
+   "base": "FIDA",
+   "quoteVol24hUsd": 6838354.0
+  },
+  {
+   "symbol": "CFGUSDT",
+   "base": "CFG",
+   "quoteVol24hUsd": 6730066.0
+  },
+  {
+   "symbol": "FILUSDT",
+   "base": "FIL",
+   "quoteVol24hUsd": 6650020.0
+  },
+  {
+   "symbol": "BCHUSDT",
+   "base": "BCH",
+   "quoteVol24hUsd": 6644879.0
+  },
+  {
+   "symbol": "SNDKBUSDT",
+   "base": "SNDKB",
+   "quoteVol24hUsd": 6614002.0
+  },
+  {
+   "symbol": "MSTRBUSDT",
+   "base": "MSTRB",
+   "quoteVol24hUsd": 6568684.0
+  },
+  {
+   "symbol": "JTOUSDT",
+   "base": "JTO",
+   "quoteVol24hUsd": 6418338.0
+  },
+  {
+   "symbol": "LAYERUSDT",
+   "base": "LAYER",
+   "quoteVol24hUsd": 6207630.0
+  },
+  {
+   "symbol": "LDOUSDT",
+   "base": "LDO",
+   "quoteVol24hUsd": 6078551.0
+  },
+  {
+   "symbol": "PENDLEUSDT",
+   "base": "PENDLE",
+   "quoteVol24hUsd": 6073311.0
+  },
+  {
+   "symbol": "ZKUSDT",
+   "base": "ZK",
+   "quoteVol24hUsd": 6058095.0
+  },
+  {
+   "symbol": "GRAMUSDT",
+   "base": "GRAM",
+   "quoteVol24hUsd": 5519806.0
+  },
+  {
+   "symbol": "CATIUSDT",
+   "base": "CATI",
+   "quoteVol24hUsd": 5370310.0
+  },
+  {
+   "symbol": "HBARUSDT",
+   "base": "HBAR",
+   "quoteVol24hUsd": 5344774.0
+  },
+  {
+   "symbol": "CHIPUSDT",
+   "base": "CHIP",
+   "quoteVol24hUsd": 5232236.0
+  },
+  {
+   "symbol": "MORPHOUSDT",
+   "base": "MORPHO",
+   "quoteVol24hUsd": 4970267.0
+  },
+  {
+   "symbol": "NOMUSDT",
+   "base": "NOM",
+   "quoteVol24hUsd": 4926698.0
+  },
+  {
+   "symbol": "APTUSDT",
+   "base": "APT",
+   "quoteVol24hUsd": 4813214.0
+  },
+  {
+   "symbol": "POLUSDT",
+   "base": "POL",
+   "quoteVol24hUsd": 4752330.0
+  },
+  {
+   "symbol": "GIGGLEUSDT",
+   "base": "GIGGLE",
+   "quoteVol24hUsd": 4680629.0
+  },
+  {
+   "symbol": "METISUSDT",
+   "base": "METIS",
+   "quoteVol24hUsd": 4605731.0
+  },
+  {
+   "symbol": "STRKUSDT",
+   "base": "STRK",
+   "quoteVol24hUsd": 4505636.0
+  },
+  {
+   "symbol": "SOLVUSDT",
+   "base": "SOLV",
+   "quoteVol24hUsd": 4455945.0
+  },
+  {
+   "symbol": "SOXLBUSDT",
+   "base": "SOXLB",
+   "quoteVol24hUsd": 4415091.0
+  },
+  {
+   "symbol": "QQQBUSDT",
+   "base": "QQQB",
+   "quoteVol24hUsd": 4370120.0
+  },
+  {
+   "symbol": "ZROUSDT",
+   "base": "ZRO",
+   "quoteVol24hUsd": 4328819.0
+  },
+  {
+   "symbol": "SEIUSDT",
+   "base": "SEI",
+   "quoteVol24hUsd": 4292653.0
+  },
+  {
+   "symbol": "GRTUSDT",
+   "base": "GRT",
+   "quoteVol24hUsd": 4225957.0
+  },
+  {
+   "symbol": "ROSEUSDT",
+   "base": "ROSE",
+   "quoteVol24hUsd": 3692459.0
+  },
+  {
+   "symbol": "币安人生USDT",
+   "base": "币安人生",
+   "quoteVol24hUsd": 3437811.0
+  },
+  {
+   "symbol": "SHIBUSDT",
+   "base": "SHIB",
+   "quoteVol24hUsd": 3336088.0
+  },
+  {
+   "symbol": "FORMUSDT",
+   "base": "FORM",
+   "quoteVol24hUsd": 3259802.0
+  },
+  {
+   "symbol": "WLFIUSDT",
+   "base": "WLFI",
+   "quoteVol24hUsd": 3220849.0
+  },
+  {
+   "symbol": "BOMEUSDT",
+   "base": "BOME",
+   "quoteVol24hUsd": 3201803.0
+  },
+  {
+   "symbol": "ETHFIUSDT",
+   "base": "ETHFI",
+   "quoteVol24hUsd": 2973261.0
+  },
+  {
+   "symbol": "MUBUSDT",
+   "base": "MUB",
+   "quoteVol24hUsd": 2857751.0
+  },
+  {
+   "symbol": "PYTHUSDT",
+   "base": "PYTH",
+   "quoteVol24hUsd": 2780632.0
+  },
+  {
+   "symbol": "WIFUSDT",
+   "base": "WIF",
+   "quoteVol24hUsd": 2718266.0
+  },
+  {
+   "symbol": "METUSDT",
+   "base": "MET",
+   "quoteVol24hUsd": 2674271.0
+  },
+  {
+   "symbol": "ARUSDT",
+   "base": "AR",
+   "quoteVol24hUsd": 2651989.0
+  },
+  {
+   "symbol": "SPCXBUSDT",
+   "base": "SPCXB",
+   "quoteVol24hUsd": 2542914.0
+  },
+  {
+   "symbol": "AEROUSDT",
+   "base": "AERO",
+   "quoteVol24hUsd": 2518103.0
+  },
+  {
+   "symbol": "DEXEUSDT",
+   "base": "DEXE",
+   "quoteVol24hUsd": 2467255.0
+  },
+  {
+   "symbol": "EIGENUSDT",
+   "base": "EIGEN",
+   "quoteVol24hUsd": 2445007.0
+  },
+  {
+   "symbol": "YGGUSDT",
+   "base": "YGG",
+   "quoteVol24hUsd": 2207922.0
+  },
+  {
+   "symbol": "MITOUSDT",
+   "base": "MITO",
+   "quoteVol24hUsd": 2206770.0
+  },
+  {
+   "symbol": "JSTUSDT",
+   "base": "JST",
+   "quoteVol24hUsd": 2100287.0
+  },
+  {
+   "symbol": "REUSDT",
+   "base": "RE",
+   "quoteVol24hUsd": 2096922.0
+  },
+  {
+   "symbol": "MUBARAKUSDT",
+   "base": "MUBARAK",
+   "quoteVol24hUsd": 2079467.0
+  },
+  {
+   "symbol": "ORDIUSDT",
+   "base": "ORDI",
+   "quoteVol24hUsd": 2056199.0
+  }
+ ]
+}

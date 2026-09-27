@@ -1,0 +1,20 @@
+{
+  "channels": {
+    "telegram": {
+      "enabled": false,
+      "token": "你的 BotFather token，形如 123456:ABC-DEF...",
+      "chat_id": "你的 chat_id，给 @userinfobot 发消息获取"
+    },
+    "serverchan": {
+      "enabled": false,
+      "sendkey": "你的 Server酱 SendKey，sctapi.ftqq.com 获取"
+    },
+    "wecom": {
+      "enabled": false,
+      "corpid": "企业微信 Corp ID",
+      "corpsecret": "企业微信 Corp Secret",
+      "agentid": "应用 Agent ID",
+      "touser": "@all"
+    }
+  }
+}

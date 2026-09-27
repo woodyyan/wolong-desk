@@ -1,0 +1,756 @@
+{
+  "status": "running",
+  "start_day": "2026-09-07",
+  "start_equity": 100000.0,
+  "as_of": "2026-09-22",
+  "pos": 9,
+  "entry_date": "2026-09-07",
+  "entry_price": 0.174,
+  "equity": 108848.05,
+  "nav": 1.0885,
+  "bh_nav": 1.0781,
+  "cagr": 5.9207,
+  "mdd": -0.0588,
+  "sharpe": 4.763,
+  "turnover": 49,
+  "bh_cagr": 4.5595,
+  "bh_mdd": -0.0511,
+  "trades": [
+    {
+      "date": "2026-09-07",
+      "side": "BUY",
+      "symbol": "ARB",
+      "weight": 0.1,
+      "price": 0.174,
+      "fee": 9.99,
+      "pnl": null,
+      "equity_after": 99900.0,
+      "reason": "OPEN"
+    },
+    {
+      "date": "2026-09-07",
+      "side": "BUY",
+      "symbol": "DASH",
+      "weight": 0.1,
+      "price": 70.36,
+      "fee": 9.99,
+      "pnl": null,
+      "equity_after": 99900.0,
+      "reason": "OPEN"
+    },
+    {
+      "date": "2026-09-07",
+      "side": "BUY",
+      "symbol": "ENA",
+      "weight": 0.1,
+      "price": 0.176,
+      "fee": 9.99,
+      "pnl": null,
+      "equity_after": 99900.0,
+      "reason": "OPEN"
+    },
+    {
+      "date": "2026-09-07",
+      "side": "BUY",
+      "symbol": "LINK",
+      "weight": 0.1,
+      "price": 13.131,
+      "fee": 9.99,
+      "pnl": null,
+      "equity_after": 99900.0,
+      "reason": "OPEN"
+    },
+    {
+      "date": "2026-09-07",
+      "side": "BUY",
+      "symbol": "NEAR",
+      "weight": 0.1,
+      "price": 2.426,
+      "fee": 9.99,
+      "pnl": null,
+      "equity_after": 99900.0,
+      "reason": "OPEN"
+    },
+    {
+      "date": "2026-09-07",
+      "side": "BUY",
+      "symbol": "RAY",
+      "weight": 0.1,
+      "price": 1.2066,
+      "fee": 9.99,
+      "pnl": null,
+      "equity_after": 99900.0,
+      "reason": "OPEN"
+    },
+    {
+      "date": "2026-09-07",
+      "side": "BUY",
+      "symbol": "TAO",
+      "weight": 0.1,
+      "price": 272.6,
+      "fee": 9.99,
+      "pnl": null,
+      "equity_after": 99900.0,
+      "reason": "OPEN"
+    },
+    {
+      "date": "2026-09-07",
+      "side": "BUY",
+      "symbol": "UNI",
+      "weight": 0.1,
+      "price": 6.987,
+      "fee": 9.99,
+      "pnl": null,
+      "equity_after": 99900.0,
+      "reason": "OPEN"
+    },
+    {
+      "date": "2026-09-07",
+      "side": "BUY",
+      "symbol": "WLD",
+      "weight": 0.1,
+      "price": 0.4165,
+      "fee": 9.99,
+      "pnl": null,
+      "equity_after": 99900.0,
+      "reason": "OPEN"
+    },
+    {
+      "date": "2026-09-07",
+      "side": "BUY",
+      "symbol": "ZEC",
+      "weight": 0.1,
+      "price": 1195.59,
+      "fee": 9.99,
+      "pnl": null,
+      "equity_after": 99900.0,
+      "reason": "OPEN"
+    },
+    {
+      "date": "2026-09-08",
+      "side": "SELL",
+      "symbol": "DASH",
+      "weight": 0.1,
+      "price": 62.47,
+      "fee": null,
+      "pnl": -0.114138,
+      "equity_after": 97589.27,
+      "reason": "STOP"
+    },
+    {
+      "date": "2026-09-09",
+      "side": "SELL",
+      "symbol": "ARB",
+      "weight": 0.1,
+      "price": 0.1495,
+      "fee": null,
+      "pnl": -0.142805,
+      "equity_after": 97981.16,
+      "reason": "STOP"
+    },
+    {
+      "date": "2026-09-09",
+      "side": "SELL",
+      "symbol": "LINK",
+      "weight": 0.1,
+      "price": 11.804,
+      "fee": null,
+      "pnl": -0.103059,
+      "equity_after": 97981.16,
+      "reason": "STOP"
+    },
+    {
+      "date": "2026-09-09",
+      "side": "SELL",
+      "symbol": "UNI",
+      "weight": 0.1,
+      "price": 6.157,
+      "fee": null,
+      "pnl": -0.120792,
+      "equity_after": 97981.16,
+      "reason": "STOP"
+    },
+    {
+      "date": "2026-09-09",
+      "side": "SELL",
+      "symbol": "ENA",
+      "weight": 0.1,
+      "price": 0.1521,
+      "fee": null,
+      "pnl": -0.137795,
+      "equity_after": 97981.16,
+      "reason": "STOP"
+    },
+    {
+      "date": "2026-09-11",
+      "side": "SELL",
+      "symbol": "TAO",
+      "weight": 0.1,
+      "price": 234.9,
+      "fee": null,
+      "pnl": -0.140298,
+      "equity_after": 98884.86,
+      "reason": "STOP"
+    },
+    {
+      "date": "2026-09-14",
+      "side": "BUY",
+      "symbol": "BERA",
+      "weight": 0.1,
+      "price": 0.1845,
+      "fee": 9.81,
+      "pnl": null,
+      "equity_after": 98074.21,
+      "reason": "REBAL"
+    },
+    {
+      "date": "2026-09-14",
+      "side": "BUY",
+      "symbol": "CATI",
+      "weight": 0.1,
+      "price": 0.06396,
+      "fee": 9.81,
+      "pnl": null,
+      "equity_after": 98074.21,
+      "reason": "REBAL"
+    },
+    {
+      "date": "2026-09-14",
+      "side": "BUY",
+      "symbol": "CHZ",
+      "weight": 0.1,
+      "price": 0.01453,
+      "fee": 9.81,
+      "pnl": null,
+      "equity_after": 98074.21,
+      "reason": "REBAL"
+    },
+    {
+      "date": "2026-09-14",
+      "side": "BUY",
+      "symbol": "KAVA",
+      "weight": 0.1,
+      "price": 0.06518,
+      "fee": 9.81,
+      "pnl": null,
+      "equity_after": 98074.21,
+      "reason": "REBAL"
+    },
+    {
+      "date": "2026-09-14",
+      "side": "BUY",
+      "symbol": "MASK",
+      "weight": 0.1,
+      "price": 0.461,
+      "fee": 9.81,
+      "pnl": null,
+      "equity_after": 98074.21,
+      "reason": "REBAL"
+    },
+    {
+      "date": "2026-09-14",
+      "side": "SELL",
+      "symbol": "NEAR",
+      "weight": 0.1,
+      "price": 2.469,
+      "fee": 9.81,
+      "pnl": null,
+      "equity_after": 98074.21,
+      "reason": "REBAL"
+    },
+    {
+      "date": "2026-09-14",
+      "side": "BUY",
+      "symbol": "PORTAL",
+      "weight": 0.1,
+      "price": 0.01808,
+      "fee": 9.81,
+      "pnl": null,
+      "equity_after": 98074.21,
+      "reason": "REBAL"
+    },
+    {
+      "date": "2026-09-14",
+      "side": "SELL",
+      "symbol": "RAY",
+      "weight": 0.1,
+      "price": 1.3943,
+      "fee": 9.81,
+      "pnl": null,
+      "equity_after": 98074.21,
+      "reason": "REBAL"
+    },
+    {
+      "date": "2026-09-14",
+      "side": "BUY",
+      "symbol": "SAGA",
+      "weight": 0.1,
+      "price": 0.01884,
+      "fee": 9.81,
+      "pnl": null,
+      "equity_after": 98074.21,
+      "reason": "REBAL"
+    },
+    {
+      "date": "2026-09-14",
+      "side": "BUY",
+      "symbol": "SOLV",
+      "weight": 0.1,
+      "price": 0.00485,
+      "fee": 9.81,
+      "pnl": null,
+      "equity_after": 98074.21,
+      "reason": "REBAL"
+    },
+    {
+      "date": "2026-09-14",
+      "side": "BUY",
+      "symbol": "STX",
+      "weight": 0.1,
+      "price": 0.264,
+      "fee": 9.81,
+      "pnl": null,
+      "equity_after": 98074.21,
+      "reason": "REBAL"
+    },
+    {
+      "date": "2026-09-14",
+      "side": "BUY",
+      "symbol": "THETA",
+      "weight": 0.1,
+      "price": 0.196,
+      "fee": 9.81,
+      "pnl": null,
+      "equity_after": 98074.21,
+      "reason": "REBAL"
+    },
+    {
+      "date": "2026-09-14",
+      "side": "SELL",
+      "symbol": "WLD",
+      "weight": 0.1,
+      "price": 0.3854,
+      "fee": 9.81,
+      "pnl": null,
+      "equity_after": 98074.21,
+      "reason": "REBAL"
+    },
+    {
+      "date": "2026-09-14",
+      "side": "SELL",
+      "symbol": "ZEC",
+      "weight": 0.1,
+      "price": 1163.6,
+      "fee": 9.81,
+      "pnl": null,
+      "equity_after": 98074.21,
+      "reason": "REBAL"
+    },
+    {
+      "date": "2026-09-15",
+      "side": "SELL",
+      "symbol": "STX",
+      "weight": 0.1,
+      "price": 0.235,
+      "fee": null,
+      "pnl": -0.111848,
+      "equity_after": 95014.86,
+      "reason": "STOP"
+    },
+    {
+      "date": "2026-09-18",
+      "side": "SELL",
+      "symbol": "SOLV",
+      "weight": 0.1,
+      "price": 0.00393,
+      "fee": null,
+      "pnl": -0.191691,
+      "equity_after": 99687.1,
+      "reason": "STOP"
+    },
+    {
+      "date": "2026-09-21",
+      "side": "BUY",
+      "symbol": "AAVE",
+      "weight": 0.111111,
+      "price": 145.9,
+      "fee": 11.5,
+      "pnl": null,
+      "equity_after": 103541.04,
+      "reason": "REBAL"
+    },
+    {
+      "date": "2026-09-21",
+      "side": "BUY",
+      "symbol": "ADA",
+      "weight": 0.111111,
+      "price": 0.2451,
+      "fee": 11.5,
+      "pnl": null,
+      "equity_after": 103541.04,
+      "reason": "REBAL"
+    },
+    {
+      "date": "2026-09-21",
+      "side": "SELL",
+      "symbol": "BERA",
+      "weight": 0.1,
+      "price": 0.2293,
+      "fee": 10.35,
+      "pnl": null,
+      "equity_after": 103541.04,
+      "reason": "REBAL"
+    },
+    {
+      "date": "2026-09-21",
+      "side": "SELL",
+      "symbol": "CATI",
+      "weight": 0.1,
+      "price": 0.06732,
+      "fee": 10.35,
+      "pnl": null,
+      "equity_after": 103541.04,
+      "reason": "REBAL"
+    },
+    {
+      "date": "2026-09-21",
+      "side": "SELL",
+      "symbol": "CHZ",
+      "weight": 0.1,
+      "price": 0.01603,
+      "fee": 10.35,
+      "pnl": null,
+      "equity_after": 103541.04,
+      "reason": "REBAL"
+    },
+    {
+      "date": "2026-09-21",
+      "side": "BUY",
+      "symbol": "ENA",
+      "weight": 0.111111,
+      "price": 0.2127,
+      "fee": 11.5,
+      "pnl": null,
+      "equity_after": 103541.04,
+      "reason": "REBAL"
+    },
+    {
+      "date": "2026-09-21",
+      "side": "BUY",
+      "symbol": "FIL",
+      "weight": 0.111111,
+      "price": 0.9858,
+      "fee": 11.5,
+      "pnl": null,
+      "equity_after": 103541.04,
+      "reason": "REBAL"
+    },
+    {
+      "date": "2026-09-21",
+      "side": "BUY",
+      "symbol": "INJ",
+      "weight": 0.111111,
+      "price": 7.853,
+      "fee": 11.5,
+      "pnl": null,
+      "equity_after": 103541.04,
+      "reason": "REBAL"
+    },
+    {
+      "date": "2026-09-21",
+      "side": "SELL",
+      "symbol": "KAVA",
+      "weight": 0.1,
+      "price": 0.07087,
+      "fee": 10.35,
+      "pnl": null,
+      "equity_after": 103541.04,
+      "reason": "REBAL"
+    },
+    {
+      "date": "2026-09-21",
+      "side": "BUY",
+      "symbol": "LDO",
+      "weight": 0.111111,
+      "price": 0.4315,
+      "fee": 11.5,
+      "pnl": null,
+      "equity_after": 103541.04,
+      "reason": "REBAL"
+    },
+    {
+      "date": "2026-09-21",
+      "side": "SELL",
+      "symbol": "MASK",
+      "weight": 0.1,
+      "price": 0.486,
+      "fee": 10.35,
+      "pnl": null,
+      "equity_after": 103541.04,
+      "reason": "REBAL"
+    },
+    {
+      "date": "2026-09-21",
+      "side": "BUY",
+      "symbol": "OP",
+      "weight": 0.111111,
+      "price": 0.1275,
+      "fee": 11.5,
+      "pnl": null,
+      "equity_after": 103541.04,
+      "reason": "REBAL"
+    },
+    {
+      "date": "2026-09-21",
+      "side": "SELL",
+      "symbol": "PORTAL",
+      "weight": 0.1,
+      "price": 0.01971,
+      "fee": 10.35,
+      "pnl": null,
+      "equity_after": 103541.04,
+      "reason": "REBAL"
+    },
+    {
+      "date": "2026-09-21",
+      "side": "BUY",
+      "symbol": "RENDER",
+      "weight": 0.111111,
+      "price": 1.873,
+      "fee": 11.5,
+      "pnl": null,
+      "equity_after": 103541.04,
+      "reason": "REBAL"
+    },
+    {
+      "date": "2026-09-21",
+      "side": "SELL",
+      "symbol": "SAGA",
+      "weight": 0.1,
+      "price": 0.03941,
+      "fee": 10.35,
+      "pnl": null,
+      "equity_after": 103541.04,
+      "reason": "REBAL"
+    },
+    {
+      "date": "2026-09-21",
+      "side": "BUY",
+      "symbol": "SUI",
+      "weight": 0.111111,
+      "price": 1.0427,
+      "fee": 11.5,
+      "pnl": null,
+      "equity_after": 103541.04,
+      "reason": "REBAL"
+    },
+    {
+      "date": "2026-09-21",
+      "side": "SELL",
+      "symbol": "THETA",
+      "weight": 0.1,
+      "price": 0.2253,
+      "fee": 10.35,
+      "pnl": null,
+      "equity_after": 103541.04,
+      "reason": "REBAL"
+    }
+  ],
+  "series": [
+    {
+      "date": "2026-09-07",
+      "equity": 99900.0,
+      "bh_equity": 100000.0,
+      "nav": 0.999,
+      "bh_nav": 1.0,
+      "n_coins": 10
+    },
+    {
+      "date": "2026-09-08",
+      "equity": 97589.27,
+      "bh_equity": 98414.22,
+      "nav": 0.9759,
+      "bh_nav": 0.9841,
+      "n_coins": 9
+    },
+    {
+      "date": "2026-09-09",
+      "equity": 97981.16,
+      "bh_equity": 98226.86,
+      "nav": 0.9798,
+      "bh_nav": 0.9823,
+      "n_coins": 5
+    },
+    {
+      "date": "2026-09-10",
+      "equity": 98055.05,
+      "bh_equity": 98156.08,
+      "nav": 0.9806,
+      "bh_nav": 0.9816,
+      "n_coins": 5
+    },
+    {
+      "date": "2026-09-11",
+      "equity": 98884.86,
+      "bh_equity": 96289.29,
+      "nav": 0.9888,
+      "bh_nav": 0.9629,
+      "n_coins": 4
+    },
+    {
+      "date": "2026-09-12",
+      "equity": 98596.77,
+      "bh_equity": 96937.72,
+      "nav": 0.986,
+      "bh_nav": 0.9694,
+      "n_coins": 4
+    },
+    {
+      "date": "2026-09-13",
+      "equity": 98211.7,
+      "bh_equity": 96914.24,
+      "nav": 0.9821,
+      "bh_nav": 0.9691,
+      "n_coins": 4
+    },
+    {
+      "date": "2026-09-14",
+      "equity": 94332.12,
+      "bh_equity": 98079.82,
+      "nav": 0.9433,
+      "bh_nav": 0.9808,
+      "n_coins": 10
+    },
+    {
+      "date": "2026-09-15",
+      "equity": 95014.86,
+      "bh_equity": 94887.73,
+      "nav": 0.9501,
+      "bh_nav": 0.9489,
+      "n_coins": 9
+    },
+    {
+      "date": "2026-09-16",
+      "equity": 94029.99,
+      "bh_equity": 95413.82,
+      "nav": 0.9403,
+      "bh_nav": 0.9541,
+      "n_coins": 9
+    },
+    {
+      "date": "2026-09-17",
+      "equity": 94617.3,
+      "bh_equity": 95856.79,
+      "nav": 0.9462,
+      "bh_nav": 0.9586,
+      "n_coins": 9
+    },
+    {
+      "date": "2026-09-18",
+      "equity": 99687.1,
+      "bh_equity": 101459.97,
+      "nav": 0.9969,
+      "bh_nav": 1.0146,
+      "n_coins": 8
+    },
+    {
+      "date": "2026-09-19",
+      "equity": 103154.95,
+      "bh_equity": 101919.23,
+      "nav": 1.0315,
+      "bh_nav": 1.0192,
+      "n_coins": 8
+    },
+    {
+      "date": "2026-09-20",
+      "equity": 103727.75,
+      "bh_equity": 101743.58,
+      "nav": 1.0373,
+      "bh_nav": 1.0174,
+      "n_coins": 8
+    },
+    {
+      "date": "2026-09-21",
+      "equity": 109202.03,
+      "bh_equity": 108655.32,
+      "nav": 1.092,
+      "bh_nav": 1.0866,
+      "n_coins": 9
+    },
+    {
+      "date": "2026-09-22",
+      "equity": 108848.05,
+      "bh_equity": 107808.64,
+      "nav": 1.0885,
+      "bh_nav": 1.0781,
+      "n_coins": 9
+    }
+  ],
+  "holdings": {
+    "AAVE": 0.111111,
+    "ADA": 0.111111,
+    "ENA": 0.111111,
+    "FIL": 0.111111,
+    "INJ": 0.111111,
+    "LDO": 0.111111,
+    "OP": 0.111111,
+    "RENDER": 0.111111,
+    "SUI": 0.111111
+  },
+  "multi_asset": true,
+  "pos_state": {
+    "SUI": {
+      "w": 0.11111111111111112,
+      "entry": 1.0427,
+      "peak": 1.0626
+    },
+    "ADA": {
+      "w": 0.11111111111111112,
+      "entry": 0.2451,
+      "peak": 0.251
+    },
+    "ENA": {
+      "w": 0.11111111111111112,
+      "entry": 0.2127,
+      "peak": 0.2147
+    },
+    "AAVE": {
+      "w": 0.11111111111111112,
+      "entry": 145.9,
+      "peak": 145.9
+    },
+    "INJ": {
+      "w": 0.11111111111111112,
+      "entry": 7.853,
+      "peak": 7.853
+    },
+    "OP": {
+      "w": 0.11111111111111112,
+      "entry": 0.1275,
+      "peak": 0.1278
+    },
+    "FIL": {
+      "w": 0.11111111111111112,
+      "entry": 0.9858,
+      "peak": 1.0116
+    },
+    "RENDER": {
+      "w": 0.11111111111111112,
+      "entry": 1.873,
+      "peak": 1.898
+    },
+    "LDO": {
+      "w": 0.11111111111111112,
+      "entry": 0.4315,
+      "peak": 0.4325
+    }
+  },
+  "as_of_i": 3323,
+  "eq_state": 108848.05,
+  "live_equity": 82665.64,
+  "live_trading": true,
+  "last_notified_day": "2026-09-22",
+  "last_heartbeat": "2026-09-22T20:11:04",
+  "compute_version": "1.5.10",
+  "last_live_check": "2026-09-22T13:24:38"
+}

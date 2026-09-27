@@ -1,0 +1,180 @@
+{
+  "status": "running",
+  "start_day": "2026-09-07",
+  "start_equity": 100000.0,
+  "as_of": "2026-09-22",
+  "pos": 1,
+  "entry_date": "2026-09-07",
+  "entry_price": 79719.98,
+  "equity": 107700.84,
+  "nav": 1.077,
+  "bh_nav": 1.0781,
+  "cagr": 4.4315,
+  "mdd": -0.0512,
+  "sharpe": 4.026,
+  "turnover": 1,
+  "bh_cagr": 4.5595,
+  "bh_mdd": -0.0511,
+  "trades": [
+    {
+      "date": "2026-09-07",
+      "side": "BUY",
+      "symbol": "BTC",
+      "weight": 1.0,
+      "price": 79719.98,
+      "fee": 99.9,
+      "pnl": null,
+      "equity_after": 99900.0,
+      "reason": "OPEN"
+    }
+  ],
+  "series": [
+    {
+      "date": "2026-09-07",
+      "equity": 99900.0,
+      "bh_equity": 100000.0,
+      "nav": 0.999,
+      "bh_nav": 1.0,
+      "n_coins": 1
+    },
+    {
+      "date": "2026-09-08",
+      "equity": 98315.81,
+      "bh_equity": 98414.22,
+      "nav": 0.9832,
+      "bh_nav": 0.9841,
+      "n_coins": 1
+    },
+    {
+      "date": "2026-09-09",
+      "equity": 98128.63,
+      "bh_equity": 98226.86,
+      "nav": 0.9813,
+      "bh_nav": 0.9823,
+      "n_coins": 1
+    },
+    {
+      "date": "2026-09-10",
+      "equity": 98057.93,
+      "bh_equity": 98156.08,
+      "nav": 0.9806,
+      "bh_nav": 0.9816,
+      "n_coins": 1
+    },
+    {
+      "date": "2026-09-11",
+      "equity": 96193.0,
+      "bh_equity": 96289.29,
+      "nav": 0.9619,
+      "bh_nav": 0.9629,
+      "n_coins": 1
+    },
+    {
+      "date": "2026-09-12",
+      "equity": 96840.78,
+      "bh_equity": 96937.72,
+      "nav": 0.9684,
+      "bh_nav": 0.9694,
+      "n_coins": 1
+    },
+    {
+      "date": "2026-09-13",
+      "equity": 96817.32,
+      "bh_equity": 96914.24,
+      "nav": 0.9682,
+      "bh_nav": 0.9691,
+      "n_coins": 1
+    },
+    {
+      "date": "2026-09-14",
+      "equity": 97981.74,
+      "bh_equity": 98079.82,
+      "nav": 0.9798,
+      "bh_nav": 0.9808,
+      "n_coins": 1
+    },
+    {
+      "date": "2026-09-15",
+      "equity": 94792.84,
+      "bh_equity": 94887.73,
+      "nav": 0.9479,
+      "bh_nav": 0.9489,
+      "n_coins": 1
+    },
+    {
+      "date": "2026-09-16",
+      "equity": 95318.41,
+      "bh_equity": 95413.82,
+      "nav": 0.9532,
+      "bh_nav": 0.9541,
+      "n_coins": 1
+    },
+    {
+      "date": "2026-09-17",
+      "equity": 95760.93,
+      "bh_equity": 95856.79,
+      "nav": 0.9576,
+      "bh_nav": 0.9586,
+      "n_coins": 1
+    },
+    {
+      "date": "2026-09-18",
+      "equity": 101358.51,
+      "bh_equity": 101459.97,
+      "nav": 1.0136,
+      "bh_nav": 1.0146,
+      "n_coins": 1
+    },
+    {
+      "date": "2026-09-19",
+      "equity": 101817.31,
+      "bh_equity": 101919.23,
+      "nav": 1.0182,
+      "bh_nav": 1.0192,
+      "n_coins": 1
+    },
+    {
+      "date": "2026-09-20",
+      "equity": 101641.83,
+      "bh_equity": 101743.58,
+      "nav": 1.0164,
+      "bh_nav": 1.0174,
+      "n_coins": 1
+    },
+    {
+      "date": "2026-09-21",
+      "equity": 108546.67,
+      "bh_equity": 108655.32,
+      "nav": 1.0855,
+      "bh_nav": 1.0866,
+      "n_coins": 1
+    },
+    {
+      "date": "2026-09-22",
+      "equity": 107700.84,
+      "bh_equity": 107808.64,
+      "nav": 1.077,
+      "bh_nav": 1.0781,
+      "n_coins": 1
+    }
+  ],
+  "holdings": {
+    "BTC": 1.0
+  },
+  "multi_asset": false,
+  "pos_state": {
+    "BTC": {
+      "w": 1.0,
+      "entry": 79719.98,
+      "peak": 86620.0
+    }
+  },
+  "as_of_i": 3323,
+  "eq_state": 107700.84,
+  "live_equity": 127667.84,
+  "live_trading": true,
+  "last_notified_day": "2026-09-22",
+  "last_heartbeat": "2026-09-22T13:24:09",
+  "compute_version": "1.5.10",
+  "last_live_check": "2026-09-22T13:24:09"
+}

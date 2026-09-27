@@ -1,0 +1,3 @@
+# 交易台运行依赖（唯一第三方依赖）
+# 其余为标准库：json / urllib / bisect / threading / http.server 等
+numpy==2.5.1

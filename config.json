@@ -1,0 +1,5 @@
+{
+  "version": "1.5.13",
+  "note": "新增每晚21:00运行日报（minor；v1.5.13 patch 修正日报头部标题/日期重复——send_report 已输出 title 首行，正文不应再拼一遍）。独立脚本 ops/desk_daily_report.py 经 notify.send_report 推送，含三段：①数据接口状态（各策略账本/数据源末日、实时价复核、健康检查）；②绩效表现（净值/累计收益/今日/CAGR·MDD·Sharpe/持仓）；③近2日成交摘要（止损/换仓）。serve.py 加 _daily_report_monitor 后台线程（每60s巡检，本地21:00且当日未发→生成推送，按日去重写 state/daily_report_sent.json，重启不重复发），并新增 /api/daily-report POST 手动触发端点。｜此前 v1.5.11 刷新链路健壮性：feed_multi 并行化 + do_refresh 非静默失败 + 推进后自检兜底。COMPUTE_VERSION 未升（paper 计算逻辑未变）。",
+  "updated": "2026-09-22"
+}

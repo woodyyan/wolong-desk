@@ -1,0 +1,13 @@
+{
+  "as_of": "2026-09-07",
+  "n_days": 3309,
+  "equity": 15842394.0,
+  "nav": 158.4239,
+  "start_equity": 100000.0,
+  "cagr": 0.7484,
+  "mdd": -0.5054,
+  "sharpe": 1.53,
+  "turnover": 0,
+  "deviation": null,
+  "derived": true
+}
