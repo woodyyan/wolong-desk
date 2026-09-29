@@ -25,16 +25,37 @@ if ! "$PYTHON" -c "import numpy" 2>/dev/null; then
   exit 1
 fi
 
-# 若 8790 已被占用，先尝试释放（避免重复实例）
+# 若 8790 已被占用，只终止「本项目自己的旧实例」。
+# 不再无条件 kill —— 否则 nginx / 其它服务占用 8790 时会被误杀。
+PORT_PIDS=""
 if command -v lsof >/dev/null 2>&1; then
-  OLD_PID="$(lsof -ti :8790 2>/dev/null || true)"
-  if [ -n "$OLD_PID" ]; then
-    echo "[start] 端口 8790 已被 PID $OLD_PID 占用，先终止它"
-    kill "$OLD_PID" 2>/dev/null || true
-    sleep 1
-  fi
+  PORT_PIDS="$(lsof -ti :8790 2>/dev/null || true)"
 elif command -v fuser >/dev/null 2>&1; then
-  fuser -k 8790/tcp 2>/dev/null || true
+  PORT_PIDS="$(fuser -n tcp 8790 2>/dev/null | tr -c '0-9' '\n' | grep -E '^[0-9]+$' || true)"
+fi
+
+for _pid in $PORT_PIDS; do
+  # 取该进程的完整命令行（Linux procps 用 args=，BSD/macOS 兜底 command=）
+  _cmd="$(ps -p "$_pid" -o args= 2>/dev/null || true)"
+  if [ -z "$_cmd" ]; then
+    _cmd="$(ps -p "$_pid" -o command= 2>/dev/null || true)"
+  fi
+  case "$_cmd" in
+    *serve.py*)
+      echo "[start] 端口 8790 被本项目旧实例占用（PID $_pid），先终止它"
+      kill "$_pid" 2>/dev/null || true
+      ;;
+    *)
+      echo "[start] 错误：端口 8790 被非本项目进程占用（PID $_pid → ${_cmd:-命令行不可读}）" >&2
+      echo "[start] 为安全起见不自动终止。请先确认：lsof -nP -iTCP:8790 -sTCP:LISTEN" >&2
+      echo "[start] 确认可清理后手动 kill，或改用其它端口再启动。" >&2
+      exit 1
+      ;;
+  esac
+done
+
+if [ -n "$PORT_PIDS" ]; then
+  sleep 1
 fi
 
 # 绑定地址：默认 127.0.0.1（仅本机/反代可达）；设 DESK_HOST=0.0.0.0 才对外

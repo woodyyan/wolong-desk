@@ -428,7 +428,12 @@ def main():
         except Exception:
             pass
     threading.Thread(target=_daily_report_monitor, daemon=True).start()
-    print(f"BTC 交易台已启动 → http://127.0.0.1:{PORT}")
+    # 打印真实绑定地址（此前硬编码 127.0.0.1，公网访问排查时极易误导）
+    print(f"BTC 交易台已启动 → http://{HOST}:{PORT}   （实际监听地址 = {HOST}）")
+    if HOST in ("127.0.0.1", "localhost", "::1"):
+        print("提示：仅本机可达。外部访问请配 nginx 反代，或设 DESK_HOST=0.0.0.0 重启")
+    else:
+        print(f"提示：已对外监听 {HOST}，本服务无鉴权，务必前置 nginx + Basic Auth")
     print("Ctrl+C 退出")
     try:
         srv.serve_forever()
